@@ -1,0 +1,35 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e20000",
+        "marker-size": "medium",
+        "type": "endangered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.04736328125,
+          40.6306300839918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e20000",
+        "marker-size": "medium",
+        "type": "endangered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.828125,
+          44.37098696297173
+        ]
+      }
+    }
+  ]
+}
