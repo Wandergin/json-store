@@ -7,7 +7,7 @@
         "marker-color": "#00bb15",
         "marker-size": "medium",
         "type": "protected",
-        "title":"Ivysaur"
+        "title":"Ivysaur",
         "description":"Species that are currently under protection.",
         "address":"Forest Rte 18N06, Elk Creek, CA 95939, USA"
       },
@@ -25,7 +25,7 @@
         "marker-color": "#00bb15",
         "marker-size": "medium",
         "type": "protected",
-        "title": "Bulbasaur"
+        "title": "Bulbasaur",
         "description":"Species that are currently under protection.",
         "address":"High Meadow Rd, South Lake Tahoe, CA 96150, USA"
       },
