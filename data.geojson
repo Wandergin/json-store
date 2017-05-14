@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00bb15",
+        "marker-size": "medium",
+        "type": "protected"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.67333984374999,
+          39.41922073655956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00bb15",
+        "marker-size": "medium",
+        "type": "protected"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.90478515625,
+          38.89103282648846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e20000",
+        "marker-size": "medium",
+        "type": "endangered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.04736328125,
+          40.6306300839918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e20000",
+        "marker-size": "medium",
+        "type": "endangered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.828125,
+          44.37098696297173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9e100",
+        "marker-size": "medium",
+        "type": "threatened"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1142578125,
+          43.54854811091286
+        ]
+      }
+    }
+  ]
+}
