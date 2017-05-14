@@ -7,6 +7,7 @@
         "marker-color": "#f9e100",
         "marker-size": "medium",
         "type": "threatened"
+        "description":"Species with potential threat to become extinct."
       },
       "geometry": {
         "type": "Point",
