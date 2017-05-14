@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#00bb15",
         "marker-size": "medium",
-        "type": "protected"
+        "type": "protected",
         "description":"Species that are currently under protection."
       },
       "geometry": {
@@ -22,7 +22,7 @@
       "properties": {
         "marker-color": "#00bb15",
         "marker-size": "medium",
-        "type": "protected"
+        "type": "protected",
         "description":"Species that are currently under protection."
       },
       "geometry": {
