@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f9e100",
+        "marker-size": "medium",
+        "type": "threatened"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1142578125,
+          43.54854811091286
+        ]
+      }
+    }
+  ]
+}
