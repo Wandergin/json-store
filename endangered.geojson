@@ -7,6 +7,7 @@
         "marker-color": "#e20000",
         "marker-size": "medium",
         "type": "endangered",
+        "title":"Charizard",
         "description":"Species that are endangered.",
         "address":"Forest Rte 32N08, California, USA"
       },
@@ -24,6 +25,7 @@
         "marker-color": "#e20000",
         "marker-size": "medium",
         "type": "endangered",
+        "title": "Oricorio",
         "description":"Species that are endangered.",
         "address":"Pine Creek Rd, John Day, OR 97845, USA"
       },
