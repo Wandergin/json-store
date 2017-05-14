@@ -7,7 +7,8 @@
         "marker-color": "#e20000",
         "marker-size": "medium",
         "type": "endangered",
-        "description":"Species that are endangered."
+        "description":"Species that are endangered.",
+        "address":"Forest Rte 32N08, California, USA",
       },
       "geometry": {
         "type": "Point",
@@ -23,7 +24,8 @@
         "marker-color": "#e20000",
         "marker-size": "medium",
         "type": "endangered",
-        "description":"Species that are endangered."
+        "description":"Species that are endangered.",
+        "address":"Pine Creek Rd, John Day, OR 97845, USA"
       },
       "geometry": {
         "type": "Point",
