@@ -30,51 +30,6 @@
           38.89103282648846
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e20000",
-        "marker-size": "medium",
-        "type": "endangered"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.04736328125,
-          40.6306300839918
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#e20000",
-        "marker-size": "medium",
-        "type": "endangered"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.828125,
-          44.37098696297173
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#f9e100",
-        "marker-size": "medium",
-        "type": "threatened"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.1142578125,
-          43.54854811091286
-        ]
-      }
     }
   ]
 }
