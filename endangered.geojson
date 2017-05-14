@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#e20000",
         "marker-size": "medium",
-        "type": "endangered"
+        "type": "endangered",
         "description":"Species that are endangered."
       },
       "geometry": {
@@ -22,7 +22,7 @@
       "properties": {
         "marker-color": "#e20000",
         "marker-size": "medium",
-        "type": "endangered"
+        "type": "endangered",
         "description":"Species that are endangered."
       },
       "geometry": {
