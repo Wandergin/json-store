@@ -8,7 +8,7 @@
         "marker-size": "medium",
         "type": "endangered",
         "description":"Species that are endangered.",
-        "address":"Forest Rte 32N08, California, USA",
+        "address":"Forest Rte 32N08, California, USA"
       },
       "geometry": {
         "type": "Point",
