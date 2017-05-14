@@ -6,7 +6,7 @@
       "properties": {
         "marker-color": "#f9e100",
         "marker-size": "medium",
-        "type": "threatened"
+        "type": "threatened",
         "description":"Species with potential threat to become extinct."
       },
       "geometry": {
