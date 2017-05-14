@@ -6,6 +6,7 @@
       "properties": {
         "marker-color": "#f9e100",
         "marker-size": "medium",
+        "title":"Zapdos",
         "type": "threatened",
         "description":"Species with potential threat to become extinct.",
         "address":"852-856 Succor Creek Rd, Adrian, OR 97901, USA"
