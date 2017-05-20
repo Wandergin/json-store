@@ -5,7 +5,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Athabasca River Delta",
             "country": "Canada",
@@ -27,7 +26,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Teztan Biny (Fish Lake)",
             "country": "Canada",
@@ -49,7 +47,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Nez Perce Homelands",
             "country": "United States",
@@ -71,7 +68,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Shellmounds of the Bay Area",
             "country": "United States",
@@ -93,7 +89,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Holy Island of Lindisfarne",
             "country": "United Kingdom",
@@ -115,7 +110,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sutter Buttes",
             "country": "United States",
@@ -137,7 +131,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Nine Sacred Mountains",
             "country": "China",
@@ -159,7 +152,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Bogd Khan Uul",
             "country": "Mongolia",
@@ -181,7 +173,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Lands of the Penan",
             "country": "Malaysia",
@@ -203,7 +194,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sepik River Basin",
             "country": "Papua New Guinea",
@@ -225,7 +215,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Phiphidi Waterfall",
             "country": "South Africa",
@@ -247,7 +236,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Beyul of the Himalaya",
             "country": "Nepal, Tibet, India",
@@ -269,7 +257,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Kinabalu",
             "country": "Malaysia",
@@ -291,7 +278,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Rila Monastery",
             "country": "Bulgaria",
@@ -313,7 +299,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Bamiyan Valley",
             "country": "Afghanistan",
@@ -335,7 +320,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sierra Nevada de Santa Marta",
             "country": "Colombia",
@@ -357,7 +341,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Kii Mountain Range",
             "country": "Japan",
@@ -379,7 +362,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Gamo Highlands",
             "country": "Ethiopia",
@@ -401,7 +383,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Tsodilo Hills",
             "country": "Botswana",
@@ -423,7 +404,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Alto Purús",
             "country": "Peru",
@@ -445,7 +425,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Weeli Wolli Springs",
             "country": "Australia",
@@ -467,7 +446,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Olympus",
             "country": "Greece",
@@ -489,7 +467,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Haleakala Crater",
             "country": "United States",
@@ -511,7 +488,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Klamath River",
             "country": "United States",
@@ -533,7 +509,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sri Pada",
             "country": "Sri Lanka",
@@ -555,7 +530,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Ward Valley",
             "country": "United States",
@@ -577,7 +551,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sacred Groves of Ghana",
             "country": "Ghana",
@@ -599,7 +572,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Haida Gwaii",
             "country": "Canada",
@@ -621,7 +593,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Hill of Tara",
             "country": "Republic of Ireland",
@@ -643,7 +614,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sheka Forest",
             "country": "Ethiopia",
@@ -665,7 +635,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Camino de Santiago",
             "country": "Spain",
@@ -687,7 +656,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Klabona",
             "country": "Canada",
@@ -709,7 +677,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Androy Forests",
             "country": "Madagascar",
@@ -731,7 +698,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Cave Rock",
             "country": "United States",
@@ -753,7 +719,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Lake Baikal",
             "country": "Russia",
@@ -775,7 +740,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Tenabo",
             "country": "United States",
@@ -797,7 +761,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Caguana",
             "country": "Puerto Rico",
@@ -819,7 +782,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Bijagós Archipelago",
             "country": "Guinea-Bissau",
@@ -841,7 +803,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Wao Kele O Puna",
             "country": "United States",
@@ -863,7 +824,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Xingu River System",
             "country": "Brazil",
@@ -885,7 +845,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Tahéjöc and the Comcáac Territory",
             "country": "Mexico",
@@ -907,7 +866,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Amazay Lake",
             "country": "Canada",
@@ -929,7 +887,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Athos",
             "country": "Greece",
@@ -951,7 +908,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Kakadu",
             "country": "Australia",
@@ -973,7 +929,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Hindmarsh Island",
             "country": "Australia",
@@ -995,7 +950,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "West Papua Highlands",
             "country": "West Papua",
@@ -1017,7 +971,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Dampier Archipelago",
             "country": "Australia",
@@ -1039,7 +992,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Golden Mountains",
             "country": "Russia",
@@ -1061,7 +1013,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Sinai",
             "country": "Egypt",
@@ -1083,7 +1034,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Cordillera Vilcanota",
             "country": "Peru",
@@ -1105,7 +1055,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mecca",
             "country": "Saudi Arabia",
@@ -1127,7 +1076,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Lake Cowal",
             "country": "Australia",
@@ -1149,7 +1097,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "McArthur River",
             "country": "Australia",
@@ -1171,7 +1118,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Tongariro National Park",
             "country": "New Zealand",
@@ -1193,7 +1139,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "McCloud River Watershed",
             "country": "United States",
@@ -1215,7 +1160,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Kahoʻolawe",
             "country": "United States",
@@ -1237,7 +1181,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Quilish",
             "country": "Peru",
@@ -1259,7 +1202,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Yunnan Province",
             "country": "China",
@@ -1281,7 +1223,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Nine Mile Canyon",
             "country": "United States",
@@ -1303,7 +1244,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Stonehenge",
             "country": "England",
@@ -1325,7 +1265,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Ocmulgee Old Fields",
             "country": "United States",
@@ -1347,7 +1286,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Yucca Mountain",
             "country": "United States",
@@ -1369,7 +1307,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Lands of the Sami",
             "country": "Finland, Norway, Russia, Sweden",
@@ -1391,7 +1328,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Haskell-Baker Wetlands",
             "country": "United States",
@@ -1413,7 +1349,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Kaya Forests",
             "country": "Kenya",
@@ -1435,7 +1370,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Snoqualmie Falls",
             "country": "United States",
@@ -1457,7 +1391,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Sacred Groves of India",
             "country": "India",
@@ -1479,7 +1412,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Tikal and El Mirador",
             "country": "Guatemala",
@@ -1501,7 +1433,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Chartres Cathedral",
             "country": "France",
@@ -1523,7 +1454,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Kailash",
             "country": "Tibet",
@@ -1545,7 +1475,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Arctic Russia",
             "country": "Russia",
@@ -1567,7 +1496,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Fuji",
             "country": "Japan",
@@ -1589,7 +1517,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Kenya",
             "country": "Kenya",
@@ -1611,7 +1538,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mount Graham",
             "country": "United States",
@@ -1633,7 +1559,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Zuni Salt Lake",
             "country": "United States",
@@ -1655,7 +1580,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Jerusalem",
             "country": "Israel",
@@ -1677,7 +1601,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Ganges River",
             "country": "India",
@@ -1699,7 +1622,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Wolf River",
             "country": "United States",
@@ -1721,7 +1643,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mississippi Mounds",
             "country": "United States",
@@ -1743,7 +1664,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mauna Kea",
             "country": "United States",
@@ -1765,7 +1685,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Mattaponi River",
             "country": "United States",
@@ -1787,7 +1706,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Machu Picchu",
             "country": "Peru",
@@ -1809,7 +1727,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Uluru-Kata Tjuta",
             "country": "Australia",
@@ -1831,7 +1748,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Missouri River",
             "country": "United States",
@@ -1853,7 +1769,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Taos Blue Lake",
             "country": "United States",
@@ -1875,7 +1790,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Medicine Wheel",
             "country": "United States",
@@ -1897,7 +1811,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "G-O Road",
             "country": "United States",
@@ -1919,7 +1832,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Pipestone National Monument",
             "country": "United States",
@@ -1941,7 +1853,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Indian Pass",
             "country": "United States",
@@ -1963,7 +1874,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Devils Tower",
             "country": "United States",
@@ -1985,7 +1895,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Medicine Lake Highlands",
             "country": "United States",
@@ -2007,7 +1916,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Weatherman Draw",
             "country": "United States",
@@ -2029,7 +1937,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Badger-Two Medicine",
             "country": "United States",
@@ -2051,7 +1958,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Arctic Wildlife Refuge",
             "country": "United States",
@@ -2073,7 +1979,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Woodruff Butte",
             "country": "United States",
@@ -2095,7 +2000,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "San Francisco Peaks",
             "country": "United States",
@@ -2117,7 +2021,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Rainbow Bridge",
             "country": "United States",
@@ -2139,7 +2042,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Petroglyph National Monument",
             "country": "United States",
@@ -2161,7 +2063,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Black Hills",
             "country": "United States",
@@ -2183,7 +2084,6 @@
         "type":"Feature",
         "properties":
         {
-            "marker-color": "#e20000",
             "marker-size": "medium",
             "title": "Black Mesa",
             "country": "United States",
