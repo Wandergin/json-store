@@ -1,0 +1,2006 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Athabasca River Delta",
+            "country": "Canada",
+            "description": "In the vast northern reaches of Alberta, home to the Cree, Chipewyan Dene, Dunne-za and Métis peoples, one of the last remaining stretches of coniferous boreal forest has become a center of international attention. But despite a long history of logging in the region, the conflict isn’t over timber: energy companies and investors are instead [...]",
+            "image": "/wp-content/gallery/athabasca-river-delta/thumbs/thumbs_1_tar-sands.jpg",
+            "link": "http://www.sacredland.org/athabasca-river-delta/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "57.02,-111.65,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Teztan Biny (Fish Lake)",
+            "country": "Canada",
+            "description": "For some 20 years, the Tsilhqot’in Nation has been fighting a proposed open-pit mine that threatens its traditional lands and sacred sites including Teztan Biny, or Fish Lake, in British Columbia. To their disappointment and frustration, the Canadian Environmental Assessment Agency announced on Nov. 7, 2011, that it would accept a repackaged proposal for the [...]",
+            "image": "/wp-content/gallery/teztan-biny/thumbs/thumbs_2_teztan-biny-panorama.jpg",
+            "link": "http://www.sacredland.org/teztan-biny/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "51.27,-123.67,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Nez Perce Homelands",
+            "country": "United States",
+            "description": "In 1887 the U.S. government forced the legendary Nez Perce Chief Joseph and his band off their homeland in the Wallowa Valley in what is now Oregon; 120 years later, the tribe returned home, taking title to thousands of acres they had been working to reclaim almost continuously since their displacement. This long-awaited success was [...]",
+            "image": "/wp-content/gallery/nez-perce-homelands/thumbs/thumbs_1_chief-joseph-canyon-bottom.jpg",
+            "link": "http://www.sacredland.org/nez-perce-homelands/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "45.56,-117.07,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Shellmounds of the Bay Area",
+            "country": "United States",
+            "description": "Beneath the streets and all along the estuaries of the San Francisco and San Pablo Bay region lie ancient remnants of the daily and sacred lives of California’s native peoples. Pavement and buildings now mostly cover what used to be hundreds of shellmounds — gently rounded hills formed from accumulated layers of organic material deposited [...]",
+            "image": "/wp-content/gallery/shellmounds/thumbs/thumbs_2_emeryville-shellmound-protest.jpg",
+            "link": "http://www.sacredland.org/shellmounds-of-the-bay-area/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "37.87,-122.27,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Holy Island of Lindisfarne",
+            "country": "United Kingdom",
+            "description": "The Holy Island of Lindisfarne has been a Christian holy site and pilgrimage center since 635, playing a pivotal role as a cradle of Christianity in Northern England and Southern Scotland. Nature and spirituality are very much linked here through a line of “nature saints,” of which St. Cuthbert — considered by some as England’s [...]",
+            "image": "/wp-content/gallery/lindisfarne/thumbs/thumbs_2_lindisfarne-pilgrims.jpg",
+            "link": "http://www.sacredland.org/holy-island-of-lindisfarne/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "55.40,-1.47,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sutter Buttes",
+            "country": "United States",
+            "description": "The Sutter Buttes of Northern California&#8217;s Sacramento Valley are where life began and where life ends. Playing a role in the traditional creation and afterlife stories of the Maidu and Wintun peoples, this small mountain range was a place of ritual for their ancestors, who once lived within view of the Buttes. In the 19th [...]",
+            "image": "/wp-content/gallery/sutter-buttes/thumbs/thumbs_1_south-butte.jpg",
+            "link": "http://www.sacredland.org/sutter-buttes/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "39.21,-121.81,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Nine Sacred Mountains",
+            "country": "China",
+            "description": "In Chinese, the term for pilgrimage, ch&#8217; ao-shan chin-hsiang, is literally translated as &#8220;journeying to a mountain and offering incense.&#8221; Throughout China’s history, Buddhist and Daoist pilgrims have gone to mountains seeking spiritual sustenance and solace; there are five sacred mountains that are preeminent for Daoists and four sacred mountains that are paramount to Buddhists. [...]",
+            "image": "/wp-content/gallery/nine-sacred-mountains/thumbs/thumbs_02_hua-shan.jpg",
+            "link": "http://www.sacredland.org/nine-sacred-mountains/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.29,112.57,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Bogd Khan Uul",
+            "country": "Mongolia",
+            "description": "Crowned by one of the four holy peaks surrounding the Mongolian capital Ulaanbaatar, Bogd Khan Uul Strictly Protected Area is Mongolia&#8217;s — and perhaps the world&#8217;s — oldest officially and continuously protected site. Officially declared a sacred mountain reserve in 1778, evidence of its protected status dates back to the 13th century. During the decades-long [...]",
+            "image": "/wp-content/gallery/bogd-khan-mountain/thumbs/thumbs_01_bogdkhan-mountains.jpg",
+            "link": "http://www.sacredland.org/bogd-khan-uul/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "47.48,106.59,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Lands of the Penan",
+            "country": "Malaysia",
+            "description": "Living in the rainforests of Borneo in Southeast Asia, the Penan people are one of the last indigenous groups in the world with members who still follow a traditional nomadic lifestyle, relying solely on their natural environment for material and spiritual sustenance. But in recent decades, logging has destroyed or altered the rainforest, forcing most [...]",
+            "image": "/wp-content/gallery/penan-lands/thumbs/thumbs_01_baram-rainforest.jpg",
+            "link": "http://www.sacredland.org/lands-of-the-penan/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "3.19,114.35,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sepik River Basin",
+            "country": "Papua New Guinea",
+            "description": "Winding down from the timeless cloud forests of New Guinea’s Central Range, the Sepik River’s majestic folds form the core of one of the largest and most intact freshwater basins in the Asia Pacific region. The soul of Papua New Guinea, the Sepik is often compared with the Amazon and the Nile, and it sustains [...]",
+            "image": "/wp-content/gallery/sepik-river-basin/thumbs/thumbs_01_sepik-river.jpg",
+            "link": "http://www.sacredland.org/sepik-river-basin/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-4.06,143.09,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Phiphidi Waterfall",
+            "country": "South Africa",
+            "description": "The vhaVenda clans of northern South Africa, in present-day Limpopo Province, are among the nation&#8217;s most traditional, hewing to rituals and practices passed down from their ancestors. Among these clans, the Ramunangi are acknowledged as the traditional custodians of Phiphidi Waterfall, a small cascade that is central to the clan’s relationship with ancestral spirits. This [...]",
+            "image": "/wp-content/gallery/phiphidi-waterfall/01_phiphidi-waterfall.jpg",
+            "link": "http://www.sacredland.org/phiphidi-waterfall/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-23.24,29.25,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Beyul of the Himalaya",
+            "country": "Nepal, Tibet, India",
+            "description": "Throughout the famed Himalayan mountains are large, hidden valleys known as beyul, places of peace and refuge revered by Tibetan Buddhists. These secret lands of legend have drawn Buddhist seekers for centuries, and one called Pemako is thought to have been the inspiration for Shangri-La, the mystical Himalayan utopia described in James Hilton&#8217;s 1933 novel [...]",
+            "image": "/wp-content/gallery/beyul-of-the-himalaya/thumbs/thumbs_tsangpo-gorge.jpg",
+            "link": "http://www.sacredland.org/beyul/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "27.59,87.52,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Kinabalu",
+            "country": "Malaysia",
+            "description": "Emerging from the mist that covers the island of Borneo, the otherworldly appearance of multi-peaked Mount Kinabalu mirrors the reverence the indigenous Kadazan have for it. They call the mountain akina-balu, resting place of the ancestral spirits, and it plays a key role in their creation stories and legends, which inform traditional land relationships and [...]",
+            "image": "/wp-content/gallery/mount-kinabalu/thumbs/thumbs_kinabalu-peak.jpg",
+            "link": "http://www.sacredland.org/mount-kinabalu/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "6.04,116.33,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Rila Monastery",
+            "country": "Bulgaria",
+            "description": "Bulgaria&#8217;s Rila Monastery is a symbol of national identity representing the persistence of Bulgarian culture and faith despite centuries of foreign rule. The land surrounding it is protected as the Rila Monastery Nature Park, and the land’s preservation is intimately linked with Bulgarian Orthodox Christianity, the dominant national religion. During 500 years of Ottoman dominance, [...]",
+            "image": "/wp-content/gallery/rila-monastery/thumbs/thumbs_wide-shot.jpg",
+            "link": "http://www.sacredland.org/rila-monastery/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "42.07,23.23,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Bamiyan Valley",
+            "country": "Afghanistan",
+            "description": "In March 2001, the world watched helplessly as Taliban forces in Afghanistan methodically dynamited two of the largest standing Buddha figures in the world. Located in the imposing Bamiyan Valley, the figures, standing 125 and 180 feet, had been carved out of sheer sandstone cliffs some 1,500 years earlier under the direction of Buddhist monks. [...]",
+            "image": "/wp-content/gallery/bamiyan-valley/thumbs/thumbs_bamiyan-from-buddha-head.jpg",
+            "link": "http://www.sacredland.org/bamiyan-valley/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.49,67.48,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sierra Nevada de Santa Marta",
+            "country": "Colombia",
+            "description": "For the indigenous peoples living on the steep slopes of Colombia&#8217;s Sierra Nevada de Santa Marta, sustaining the balance of the spiritual and ecological world is their sacred task. They call themselves the Elder Brothers, the guardians of the Earth, and the rest of modern civilization are the Younger Brothers, whose exploitative practices are destroying [...]",
+            "image": "/wp-content/gallery/santa-marta/thumbs/thumbs_kogi.jpg",
+            "link": "http://www.sacredland.org/sierra-nevada-de-santa-marta/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "10.52,-72.42,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Kii Mountain Range",
+            "country": "Japan",
+            "description": "For over 1,000 years, the people of Japan have walked pilgrimage routes that wind through the densely forested slopes of the Kii Mountain Range. It was in this biodiverse region that indigenous Shinto spiritual beliefs mingled with Buddhism to create the fusion traditions of the Shingon and Shugendo sects. Hundreds of Shinto and Buddhist shrines [...]",
+            "image": "/wp-content/gallery/kii-mountain-range/thumbs/thumbs_mikoshi-toge_pass.jpg",
+            "link": "http://www.sacredland.org/kii-mountain-range/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "33.50,135.46,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Gamo Highlands",
+            "country": "Ethiopia",
+            "description": "Rising above East Africa’s Rift Valley, the verdant hills of the Gamo people abound with sacred sites—a testament to the long presence and enduring traditions of the Gamo community. Despite a long presence of both Orthodox Christianity and Islam, traditional animist beliefs have endured among the ethnic groups of southern Ethiopia, including the Gamo. In [...]",
+            "image": "/wp-content/gallery/gamohighlands/thumbs/thumbs_makko-wareo-web.jpg",
+            "link": "http://www.sacredland.org/gamo-highlands/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "13.22,37.31,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Tsodilo Hills",
+            "country": "Botswana",
+            "description": "The term &#8220;Bushmen&#8221; may bring to mind a romanticized image of the African people living harmoniously in the vast desert, hunting and gathering as their ancestors did for millennia. The numerous bushmen clans, collectively known as the San (or Basarwa in Botswana), have inhabited southern Africa&#8217;s Kalahari Desert for around 60,000 years, but very few [...]",
+            "image": "/wp-content/gallery/tsodilo/thumbs/thumbs_tsodilo-hills.jpg",
+            "link": "http://www.sacredland.org/tsodilo-hills/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-18.45,21.44,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Alto Purús",
+            "country": "Peru",
+            "description": "Deep in the remote upper reaches of the Peruvian Amazon, the region known as the Alto Purús has a history of natural-resource extraction and exploitation, starting with the rubber boom of the 19th century, that has brought death and displacement to its indigenous communities, including &#8220;uncontacted&#8221; groups living in voluntary isolation from modern society. Today, [...]",
+            "image": "/wp-content/gallery/alto-purus/thumbs/thumbs_purus_river_web.jpg",
+            "link": "http://www.sacredland.org/alto-purus/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-08.26,-74.33,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Weeli Wolli Springs",
+            "country": "Australia",
+            "description": "In the arid inland regions of the Pilbara, in Western Australia, water is a precious resource. Permanent bodies of water are rare, and many creeks flow only during short annual rainy seasons. In this unique ecosystem, water sources are carefully guarded to maintain the delicate balance that enables this land and the life within it [...]",
+            "image": "/wp-content/gallery/weeli-wolli/thumbs/thumbs_weeliwolli-3.jpg",
+            "link": "http://www.sacredland.org/weeli-wolli/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-22.54,119.12,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Olympus",
+            "country": "Greece",
+            "description": "Mount Olympus exists both as a physical mountain and a metaphorical place. Greek and Roman mythology imagined it as the home of their 12 primary gods and goddesses, and throughout history, several peaks in Greece, Turkey and Cyprus have been named Olympus. Today, the mountain most widely linked to that ancient religion is located 100 [...]",
+            "image": "/wp-content/gallery/mount-olympus/thumbs/thumbs_726px-mytikas_summit_pjs.jpg",
+            "link": "http://www.sacredland.org/mount-olympus/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "38.10,23.56,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Haleakala Crater",
+            "country": "United States",
+            "description": "The holy site or wahi pana of Haleakala Crater is known to native Hawaiians as the “House of the Sun.” Located on the southeastern reach of Maui, the second largest of the Hawaiian Islands, the sacred crater and summit are where ancient priests or na Kahuna Po’o have received spiritual wisdom and practiced meditation for [...]",
+            "image": "/wp-content/gallery/haleakala/thumbs/thumbs_haleakala_01.jpg",
+            "link": "http://www.sacredland.org/haleakala-crater/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "20.42,-156.10,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Klamath River",
+            "country": "United States",
+            "description": "To the native tribes living along the Klamath River in Oregon and California, the river and its fish — especially salmon — are sacred, and stewardship of these natural resources is a core spiritual practice. But over the past 90 years, the building of power-generating dams along the river and the siphoning of water for [...]",
+            "image": "/wp-content/gallery/klamath-river/thumbs/thumbs_klamath_01.jpg",
+            "link": "http://www.sacredland.org/klamath-river/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "41.56,-122.26,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sri Pada",
+            "country": "Sri Lanka",
+            "description": "Atop a conical mountain in Sri Lanka sits a large foot-shaped impression in rock that gives the peak its name: Sri Pada or “holy footprint.” This sacred spot, which is also known as Adam&#8217;s Peak, figures in the stories of four major faith traditions—Hinduism, Buddhism, Christianity and Islam—and it anchors a revered forested landscape that [...]",
+            "image": "/wp-content/gallery/sri_pada/thumbs/thumbs_800px-sri_pada.jpg",
+            "link": "http://www.sacredland.org/sri-pada/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "06.48,80.29,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Ward Valley",
+            "country": "United States",
+            "description": "In the vast and rocky Mojave Desert of Southern California, Ward Valley is sacred land for the five lower Colorado River Indian tribes, and critical habitat for the endangered—and traditionally revered—desert tortoise Gopherus agassizii. Here tribes gathered medicinal plants, sang sacred songs and journeyed to traditional spiritual sites in the surrounding mountains. For 10 years [...]",
+            "image": "/wp-content/gallery/ward-valley/thumbs/thumbs_2_ward-valley.jpg",
+            "link": "http://www.sacredland.org/ward-valley/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.16,-115.04,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sacred Groves of Ghana",
+            "country": "Ghana",
+            "description": "Sacred forest groves dot the otherwise increasingly degraded landscape of Ghana, in West Africa, providing oases of biodiversity and tradition. The pressures of poverty, cultural change, and migration are causing inhabitants to harvest resources from the groves at an unsustainable rate. Several promising partnerships between international organizations, the Ghanaian government, and local communities have demonstrated [...]",
+            "image": "/wp-content/gallery/sacred-groves-ghana/thumbs/thumbs_baobeng-forest.jpg",
+            "link": "http://www.sacredland.org/sacred-groves-of-ghana/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "06.48,-01.28,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Haida Gwaii",
+            "country": "Canada",
+            "description": "Haida Gwaii, a chain of islands off the coast of British Columbia, has been the home of the Haida people for untold centuries. The distinct coastal culture of the Haida depends on the once-abundant red cedar trees, forests that have been decimated by five decades of intensive clear-cutting. The Haida caught the world’s attention in [...]",
+            "image": "/wp-content/gallery/haida-gwaii/thumbs/thumbs_gwaii_haanas.jpg",
+            "link": "http://www.sacredland.org/haida-gwaii/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "52.50,-131.48,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Hill of Tara",
+            "country": "Republic of Ireland",
+            "description": "Tens of centuries ago, amid Ireland’s iconic green, rolling landscape, the kings of Ireland were anointed on a hill of tremendous importance—a place where spirituality met with royalty, and mythical traditions began. The Hill of Tara, one of the most revered spiritual sites in Ireland, is a place where druids held festivals, priestesses were trained [...]",
+            "image": "/wp-content/gallery/tara/thumbs/thumbs_standing-stone.jpg",
+            "link": "http://www.sacredland.org/hill-of-tara/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "53.34,-06.34,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sheka Forest",
+            "country": "Ethiopia",
+            "description": "The Sheka Forest in southwest Ethiopia, known as the last indigenous forest in Ethiopia, has long been a source of livelihoods and spiritual practices for local communities. In the southwest, the Shekacho people have developed traditional management practices based on religious taboos and customary tenure rights that have sustained the Sheka Forest for centuries. However, [...]",
+            "image": "/wp-content/gallery/sheka/thumbs/thumbs_sheka_waterfall.jpg",
+            "link": "http://www.sacredland.org/sheka-forest/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "07.38,35.20,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Camino de Santiago",
+            "country": "Spain",
+            "description": "The historic pilgrimage route to the Cathedral of Santiago de Compostela in northwestern Spain—known as the Camino de Santiago, or Way of St. James—is the oldest and longest living pilgrimage route in Europe. For more than 1,000 years, pilgrims have been walking the camino, which has starting throughout western Europe, all of which culminate at [...]",
+            "image": "/wp-content/gallery/camino-de-compostela/thumbs/thumbs_camino001.jpg",
+            "link": "http://www.sacredland.org/camino-de-santiago/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "42.51,-8.33,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Klabona",
+            "country": "Canada",
+            "description": "Klabona, the Sacred Headwaters of the Stikine, Skeena, and Nass rivers, is an area of unparalleled cultural importance in northwest British Columbia. The birthplace of these major rivers is home to a large salmon population and various First Nations including the Tahltan, Wet’suwet’en, and Gitxsan. This region also contains gold, copper, and natural gas—precious natural [...]",
+            "image": "/wp-content/gallery/kiabona/thumbs/thumbs_klabona_landscape.jpg",
+            "link": "http://www.sacredland.org/klabona/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "58.02,-130.55,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Androy Forests",
+            "country": "Madagascar",
+            "description": "The “spiny forests” of southern Madagascar are like no other forests on Earth: unique desert-adapted plants like the prickly stalked didierea form a dense thicket of flora that curls around the perimeter of this island off the southeast coast of Africa. With the forests, including Sakoantovo and Vohimasio, endangered by overuse, in 2003 the government [...]",
+            "image": "/wp-content/gallery/androy/thumbs/thumbs_berenty_sunset.jpg",
+            "link": "http://www.sacredland.org/androy-forests/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-24.36,44.28,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Cave Rock",
+            "country": "United States",
+            "description": "The remnant of an ancient volcano, Cave Rock is home to the spirits of the Washoe people, whose ancestral land encompassed the Lake Tahoe Basin. They no longer have domain over their sacred place; instead it is managed by the Forest Service, which permits recreational use in violation of Washoe beliefs. In August 2007, however, [...]",
+            "image": "/wp-content/gallery/cave-rock/thumbs/thumbs_caverock.jpg",
+            "link": "http://www.sacredland.org/cave-rock/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "39.02,-119.56,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Lake Baikal",
+            "country": "Russia",
+            "description": "Imagine a lake as vast as the sea and as deep as a canyon, endowed with an abundance of unique flora and fauna. This is Russia’s Lake Baikal — the world’s oldest and deepest lake — situated in southeast Siberia, near the border with Mongolia. The tribes of the Buryat, an ethnic Mongol group who [...]",
+            "image": "/wp-content/gallery/baikal/thumbs/thumbs_lake_baikal.jpg",
+            "link": "http://www.sacredland.org/lake-baikal/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "53.24,107.54,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Tenabo",
+            "country": "United States",
+            "description": "Mount Tenabo and its environs are part of Newe Sogobia, the ancestral land of the Western Shoshone, which has never been legally ceded to the federal government. Nevertheless, U.S. politicians and multinational corporations have ignored an 1863 federal treaty acknowledging Western Shoshone ownership of the land, treating sacred land as a public resource to be [...]",
+            "image": "/wp-content/gallery/tenabo/thumbs/thumbs_tenabo1.jpg",
+            "link": "http://www.sacredland.org/mount-tenabo/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "40.09,-116.35,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Caguana",
+            "country": "Puerto Rico",
+            "description": "Sitting in the lush central mountain range of Puerto Rico (Borike), the ancestral home of the Boriken Taíno people, Caguana is the largest and most complex ceremonial site in the West Indies. Caguana Ceremonial Center consists of a large central plaza, a ceremonial dance area, 10 rectangular earth-and-stone–lined ball courts and plazas and one circular [...]",
+            "image": "/wp-content/gallery/caguana/thumbs/thumbs_majesticceibatree.jpg",
+            "link": "http://www.sacredland.org/caguana/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "18.17,-66.45,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Bijagós Archipelago",
+            "country": "Guinea-Bissau",
+            "description": "The cluster of islands off the coast of the West African nation of Guinea-Bissau—the Bijagós archipelago—are a semitropical land with abundant flora, fauna and natural resources. Despite centuries of slave trading and colonial oppression, the ethnic Bijagós people have remained fiercely independent and continue to practice their land-based religion, which restricts access and activities within [...]",
+            "image": "/wp-content/gallery/bolama-bijagos/thumbs/thumbs_bolon_archipel_des_bijagos_guinee.jpg",
+            "link": "http://www.sacredland.org/bijagos-archipelago/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "11.13,-15.58,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Wao Kele O Puna",
+            "country": "United States",
+            "description": "On the island of Hawaii, the remote rainforest Wao Kele on the slopes of Kilauea is the home of the volcano goddess Pele and her ʻohana (family) of deities, an ancient hunting ground that continues to be a place of ceremony for Native Hawaiians today. When geothermal development in the forest was proposed in the [...]",
+            "image": "/wp-content/gallery/wao-kele/thumbs/thumbs_protest_march.jpg",
+            "link": "http://www.sacredland.org/wao-kele-o-puna/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "19.25,-154.59,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Xingu River System",
+            "country": "Brazil",
+            "description": "The Xingu River system, which runs through central Brazil northward to the Amazon, is a vital part of the complex ecosystem that sustains the world’s largest rainforests and a great diversity of cultures. Seeking to harness the power of this natural resource, the government of Brazil has begun work on a massive hydroelectric-dam development scheme [...]",
+            "image": "/wp-content/gallery/xingu/thumbs/thumbs_xingu_sunset.jpg",
+            "link": "http://www.sacredland.org/xingu-river-system/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-10.09,-52.58,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Tahéjöc and the Comcáac Territory",
+            "country": "Mexico",
+            "description": "The Comcáac, meaning “the people” in their native tongue—more commonly known as the Seri—are a small indigenous community living on the northwest coast of Mexico along the Gulf of California (Sea of Cortés), a desert land of stark beauty. Their traditional territory includes the island Tahéjöc, known in Spanish as Isla Tiburón; the neighboring island [...]",
+            "image": [],
+            "link": "http://www.sacredland.org/tahejoc/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "28.59,-112.23,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Amazay Lake",
+            "country": "Canada",
+            "description": "The Tse Keh Nay, the “people of the Mountains,” have lived for generations in the Rocky and Omineca mountain ranges in north-central British Columbia. Within these mountains are freshwater rivers and lakes, which provide the Tse Keh Nay with the fish that are a major component of their diet. Amazay Lake is the “Little Mother” [...]",
+            "image": "/wp-content/gallery/amazay/thumbs/thumbs_amazay_lake.jpg",
+            "link": "http://www.sacredland.org/amazay-lake/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "57.02,-126.46,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Athos",
+            "country": "Greece",
+            "description": "Lying on a slim finger of land stretching south from the Greek mainland, Mount Athos is a religious center maintained by Orthodox Christian monks for over 1,000 years and one of the only UNESCO World Heritage sites in Europe recognized for both its cultural and natural significance. The geographic isolation of the peninsula has allowed [...]",
+            "image": "/wp-content/gallery/mt-athos/thumbs/thumbs_mount_athos.jpg",
+            "link": "http://www.sacredland.org/mount-athos/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "40.08,24.19,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Kakadu",
+            "country": "Australia",
+            "description": "Home to one of the world’s largest bodies of rock art, Kakadu remains alive with the spirits of the Dreamtime. In the wet-dry tropics of the Northern Territory, this 12,000 square-mile national park contains a number of important sites sacred to Aboriginal Australians alongside some of the most spectacular rivers, waterfalls and caves in the [...]",
+            "image": "/wp-content/gallery/kakadu/thumbs/thumbs_aliencavearti.jpg",
+            "link": "http://www.sacredland.org/kakadu/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-12.55,S132.23,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Hindmarsh Island",
+            "country": "Australia",
+            "description": "According to southern Australian Aboriginal clans, the Dreamtime figure of Ngurunderi chased a giant cod with spear in hand through freshwater marshes, carving the Murray River around Kumarangk. The beautiful landscape where the river empties into the Southern Ocean has since been imbued with deep spiritual significance. “Hindmarsh Island has a connection with the whole [...]",
+            "image": "/wp-content/gallery/hindmarsh/thumbs/thumbs_hindmarsh_dry_wetlands.jpg",
+            "link": "http://www.sacredland.org/hindmarsh-island/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-35.30,138.48,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "West Papua Highlands",
+            "country": "West Papua",
+            "description": "The creation story of the Amungme people, who live in the highlands of the island of Papua, speaks to their close relationship with the land. The story tells of the sacrifice of an ancestral mother for her children and the transformation of her body into the island’s life-giving resources. The richly spiritual landscape of Papua [...]",
+            "image": "/wp-content/gallery/papua/thumbs/thumbs_papua.jpg",
+            "link": "http://www.sacredland.org/west-papua-highlands/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-04.07,137.02,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Dampier Archipelago",
+            "country": "Australia",
+            "description": "Off the northwest coast of Australia, the islands of the Dampier Archipelago are home to perhaps the largest concentration of rock art in the world, along with Australia’s largest collection of standing stones. The Yaburrara people were the spiritual guardians of this extraordinary place, which became a site of tragedy in 1868 when Anglo settlers [...]",
+            "image": "/wp-content/gallery/dampier/thumbs/thumbs_dampier_glyphs.jpg",
+            "link": "http://www.sacredland.org/dampier-archipelago/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-20.37,116.44,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Golden Mountains",
+            "country": "Russia",
+            "description": "In southwestern Siberia, along Russia’s border with China, Mongolia and Kazakhstan, the Altai or “Golden” Mountains are home to the semi-nomadic Altai people and to many endangered species, including the totemic snow leopard and argali mountain sheep. The Golden Mountains are sacred to the Altaians and to Buddhists and Burkhanists around the world. Siberia’s highest [...]",
+            "image": "/wp-content/gallery/golden-mountains/thumbs/thumbs_roerich.jpg",
+            "link": "http://www.sacredland.org/golden-mountains/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "48.40,86.54,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Sinai",
+            "country": "Egypt",
+            "description": "In the remote and rugged high desert of Egypt’s Sinai Peninsula lies a land with immense historical and spiritual significance to the world’s three great monotheistic religions. The Jewish, Christian and Muslim traditions all have deep ties to the landscape and monuments of this region. Mount Sinai is venerated by the three faiths as the [...]",
+            "image": "/wp-content/gallery/mt-sinai/thumbs/thumbs_sinai_church.jpg",
+            "link": "http://www.sacredland.org/mount-sinai/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "28.40,34.03,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Cordillera Vilcanota",
+            "country": "Peru",
+            "description": "Many visitors think of Machu Picchu and its mystical Incan heights as the spiritual center for the people of Peru. However, to the Quechua people, the glorious 20,945-foot Mount Ausangate in the Andes is the main apu (deity). In December 2004, after many years of fighting for protective designation, the people finally were able to [...]",
+            "image": "/wp-content/gallery/vilcanota/thumbs/thumbs_05_villagers-with-ausangate.jpg",
+            "link": "http://www.sacredland.org/vilcanota-spiritual-park/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-13.47,-71.13,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mecca",
+            "country": "Saudi Arabia",
+            "description": "Mecca—officially “Makkah”—is the holy city of Islam. Located in western Saudi Arabia near the Red Sea, in the sandy Valley of Abraham (Wadi Ibrihim), it is the birthplace of the Prophet Muhammed and site of the annual Muslim pilgrimage, or hajj, during the month of Dhu’l-Hijja. The city has held spiritual significance for the Arab [...]",
+            "image": "/wp-content/gallery/mecca/thumbs/thumbs_mecca_mosque.jpg",
+            "link": "http://www.sacredland.org/mecca/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "21.25,39.49,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Lake Cowal",
+            "country": "Australia",
+            "description": "Lake Cowal, often referred to as “the Heartland of the Wiradjuri Nation,” is the largest inland lake in New South Wales, Australia. Scar trees and river-stained gum trees told both the history of Aboriginal ceremonies and intermittent flooding that had taken place here for millennia until they were recently destroyed. Now, Canada’s Barrick Gold is [...]",
+            "image": "/wp-content/gallery/lake-cowal/thumbs/thumbs_cowal_middle.jpg",
+            "link": "http://www.sacredland.org/lake-cowal/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-33.39,147.26,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "McArthur River",
+            "country": "Australia",
+            "description": "In the mystical creation period known as the Dreamtime, the Rainbow Serpent sent cyclones and floods across a vast plain on Australia’s northern coast. According to the Aboriginal people of Australia’s Northern Territory, these storms created the broad and winding McArthur River, an essential part of their sacred songlines and ceremonies. Today, a massive zinc [...]",
+            "image": "/wp-content/gallery/mcarthur-river/thumbs/thumbs_mcarthurriver01.jpg",
+            "link": "http://www.sacredland.org/mcarthur-river/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-16.00,136.18,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Tongariro National Park",
+            "country": "New Zealand",
+            "description": "Snowcapped Tongariro and his fellow volcanoes, Ruapehu and Ngauruhoe, rise majestically from the central volcanic plateau of New Zealand’s North Island. To the Maori tribes who have inhabited this land since at least the 14th century, Tongariro is tapu, sacred. The mountain is regarded as a key part of their history, revered as both a [...]",
+            "image": "/wp-content/gallery/tongariro/thumbs/thumbs_tongariro.jpg",
+            "link": "http://www.sacredland.org/tongariro/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-39.01,175.38,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "McCloud River Watershed",
+            "country": "United States",
+            "description": "In 2000, California’s water wars entered a new phase with an ambitious plan called the CALFED Bay-Delta Program. Included in the plan was the proposal to raise Shasta Dam, on the McCloud River, by between six and 200 feet, which would impact the native people in the area; however, their voices have been largely left [...]",
+            "image": "/wp-content/gallery/mccloud/thumbs/thumbs_2_puberty-rock-at-shasta-lake.jpg",
+            "link": "http://www.sacredland.org/mccloud-river-watershed/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "40.43,-122.25,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Kahoʻolawe",
+            "country": "United States",
+            "description": "For decades, the sacred Hawaiian island of Kahoʻolawe, the physical incarnation of the sea god Kanaloa, was wracked by explosions set off by the U.S. Navy. Native Hawaiians demanded an end to the military assault, and in 1976 activists occupied the island, making headlines across the country. In 1990, bombing stopped and the Navy received [...]",
+            "image": "/wp-content/gallery/kahoolawe/thumbs/thumbs_kahoolaweshrine.jpg",
+            "link": "http://www.sacredland.org/kaho%e2%80%98olawe/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "20.33,-156.35,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Quilish",
+            "country": "Peru",
+            "description": "Since 1532, the inhabitants in the region of Cajamarca, high in the Peruvian Andes, have been invaded by waves of outsiders obsessed with gold. Though the form of colonization has changed over the years, the local descendents of the Inca are still fighting to preserve their land and way of life. The latest threat is [...]",
+            "image": "/wp-content/gallery/quilish/thumbs/thumbs_cajamarca_protest.jpg",
+            "link": "http://www.sacredland.org/mount-quilish/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-06.28,-78.50,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Yunnan Province",
+            "country": "China",
+            "description": "In the Yunnan Province of southwestern China, strong indigenous cultures have lived for centuries in a dramatic landscape of vertical mountain slopes, high plateaus and deep river gorges. Groups like the Dai, Yi, and Hani have faced challenges similar to those of other indigenous people around the world, including environmental destruction and the difficulty of [...]",
+            "image": "/wp-content/gallery/yunnan/thumbs/thumbs_yunnan_meili.jpg",
+            "link": "http://www.sacredland.org/yunnan-province/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "24.23,101.56,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Nine Mile Canyon",
+            "country": "United States",
+            "description": "Often called “the world’s longest art gallery,” Nine Mile Canyon in Utah contains over 10,000 petroglyphs, pictographs and archaeological sites left by the Archaic, Fremont and Ute people thousands of years ago. The Bureau of Land Management is allowing natural gas drilling in and around the canyon, public land of immeasurable cultural value. While the [...]",
+            "image": "/wp-content/gallery/nine-mile-canyon/thumbs/thumbs_ninemile_top_photo.jpg",
+            "link": "http://www.sacredland.org/nine-mile-canyon/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "39.41,-110.47,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Stonehenge",
+            "country": "England",
+            "description": "Nearly 1,000 circles of stone dot the landscape of the British Isles, throughout England, Scotland, Wales and Ireland. Built by Stone and Bronze Age people thousands of years ago, these megalithic rings are shrouded in the mists of prehistory. Questions about the ancient cultures that built them, their methods and their reasons, have captivated the [...]",
+            "image": "/wp-content/gallery/stone-circles/thumbs/thumbs_stonehenge.jpg",
+            "link": "http://www.sacredland.org/stonehenge/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "51.10,-01.49,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Ocmulgee Old Fields",
+            "country": "United States",
+            "description": "The mound temples and historic villages of the Muscogee people, descended from the Mississippian culture, in the Ocmulgee Old Fields of Georgia have been subject to development intrusions since the 1700s. Today, a proposed freeway and interchange connection to Interstate 16, which already cuts into the Ocmulgee National Monument, threatens to cut off another group [...]",
+            "image": "/wp-content/gallery/ocmulgee/thumbs/thumbs_1_ocmulgee-mounds.jpg",
+            "link": "http://www.sacredland.org/ocmulgee/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "32.50,-83.36,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Yucca Mountain",
+            "country": "United States",
+            "description": "For more than two decades, the Shoshone and Paiute peoples, scientists, environmentalists, the federal government, Nevada citizens and politicians have wrestled over the fate of Yucca Mountain. The federal government had selected the mountain to become the nation’s primary dumping ground for deadly, high-level nuclear waste, but the long-contested project is at last on its [...]",
+            "image": "/wp-content/gallery/yucca-mtn/thumbs/thumbs_02_yucca_mountain.jpg",
+            "link": "http://www.sacredland.org/yucca-mountain/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "36.57,-116.27,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Lands of the Sami",
+            "country": "Finland, Norway, Russia, Sweden",
+            "description": "Long before the concept of national borders existed, the Sami people of arctic Europe inhabited the regions now known as Norway, Sweden, Finland and the Russian Kola Peninsula. They led a nomadic life—hunting, fishing and following the seasonal migration of wild reindeer—and their culture and spirituality developed around their relationship with the land and its [...]",
+            "image": "/wp-content/gallery/sami/thumbs/thumbs_sami_stones.jpg",
+            "link": "http://www.sacredland.org/lands-of-the-sami/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "69.53,26.43,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Haskell-Baker Wetlands",
+            "country": "United States",
+            "description": "The wetlands around Lawrence, in eastern Kansas, hold over a hundred years of memories of Native children forced to grow up in isolation from their families and cultures. These memories bear their traces in unmarked child graves and a medicine wheel erected by contemporary Haskell students. Now, a proposed highway would run through the wetlands, [...]",
+            "image": "/wp-content/gallery/haskell/thumbs/thumbs_haskell_wetlands1.jpg",
+            "link": "http://www.sacredland.org/haskell-baker-wetlands/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "38.55,-95.14,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Kaya Forests",
+            "country": "Kenya",
+            "description": "Along the southern coast of Kenya, the sacred kaya forests of the Mijikenda tribes are a living legacy of the people’s history, culture and religion. For centuries, these once-extensive lowland forests shielded the homesteads, called “kaya,” of the Mijikenda from invading tribes and served as burial grounds and places of sacred ritual and prayer. Social [...]",
+            "image": "/wp-content/gallery/kaya-forests/thumbs/thumbs_kaya_forests.jpg",
+            "link": "http://www.sacredland.org/kaya-forests/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-03.52,39.39,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Snoqualmie Falls",
+            "country": "United States",
+            "description": "Snoqualmie Falls, 30 miles east of Seattle, Washington, is sacred to the Snoqualmie Tribe of the Puget Sound region. They believe it is the place where First Woman and First Man were created by Moon the Transformer, himself the son of an Indian woman and a star. There, at a huge fish weir built by [...]",
+            "image": "/wp-content/gallery/snoqualmie-falls/thumbs/thumbs_snoqualmie_falls.jpg",
+            "link": "http://www.sacredland.org/snoqualmie-falls/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "47.32,-121.50,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Sacred Groves of India",
+            "country": "India",
+            "description": "Green patches of woodland dot the landscape of India — from bamboo groves on the eastern coast to clumps of trees in the northwestern deserts, and from jungles in the tropical south to dense Himalayan forests in the north. Like the Indian population itself, these forests are tremendously diverse, but they share an important commonality: [...]",
+            "image": "/wp-content/gallery/sacred-groves/thumbs/thumbs_rootsstone.jpg",
+            "link": "http://www.sacredland.org/sacred-groves-of-india/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "10.22,76.39,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Tikal and El Mirador",
+            "country": "Guatemala",
+            "description": "In the forests of Guatemala’s El Petén region lie the ruined cities of one of the world’s great ancient cultures, the Maya. The tops of stone pyramids peer over a dense jungle canopy teeming with wildlife and diverse plant species. Here tourists come to live out Indiana Jones-style fantasies of exploring the lost cities of [...]",
+            "image": "/wp-content/gallery/tikal/thumbs/thumbs_tikal.jpg",
+            "link": "http://www.sacredland.org/tikal/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "17.13,-89.37,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Chartres Cathedral",
+            "country": "France",
+            "description": "On a hilltop in the French city of Chartres stands a cathedral renowned as a testament to human builders inspired by faith in the divine. One of the world’s best-preserved medieval cathedrals, it is a Gothic architectural achievement that has been called a miracle of stained glass and stone. Completed in 1223, the Cathedral Notre [...]",
+            "image": "/wp-content/gallery/chartes/thumbs/thumbs_chartres.jpg",
+            "link": "http://www.sacredland.org/chartres-cathedral/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "48.26,01.29,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Kailash",
+            "country": "Tibet",
+            "description": "Revered by four Asian religions comprising millions of people, Tibet’s Mount Kailash is certainly one of the world’s most sacred places. Pilgrims of the Buddhist, Hindu, Jain and Tibetan Bön faiths come to Kailash to complete ritual walks around the base of the mountain. But a half-century of Chinese rule has crippled religious and cultural [...]",
+            "image": "/wp-content/gallery/mt-kailash/thumbs/thumbs_kailashmoonlight.jpg",
+            "link": "http://www.sacredland.org/mount-kailash/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "30.87,81.37,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Arctic Russia",
+            "country": "Russia",
+            "description": "Living in the harshest of climates, the indigenous peoples of Russia’s far northern Arctic have survived for thousands of years through knowledge systems and practices that revere the spirited landscape they inhabit. Their land is full of sacred sites whose preservation has been—and continues to be—essential to their endurance as a culture. Many sites are [...]",
+            "image": "/wp-content/gallery/russia/thumbs/thumbs_peninsula_yavay.jpg",
+            "link": "http://www.sacredland.org/arctic-russia/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "72.33,116.58,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Fuji",
+            "country": "Japan",
+            "description": "Japan is one of the world’s most mountainous countries, so it’s not surprising that mountain worship is an historic element of Japanese culture. And of all the mountains in Japan, Mount Fuji stands out as a unique cultural symbol. At 12,388 feet, Fuji is Japan’s tallest mountain. It’s easily recognized and greatly admired for its [...]",
+            "image": "/wp-content/gallery/mt-fuji/thumbs/thumbs_fuji-pic.jpg",
+            "link": "http://www.sacredland.org/mount-fuji/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "35.21,138.43,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Kenya",
+            "country": "Kenya",
+            "description": "Although it straddles the equator, Mount Kenya is usually capped with ice and snow. At 17,058 feet, it is Africa’s second-highest mountain; glaciers nest in its ragged peaks, forests blanket its slopes. This ancient extinct volcano, which rises in the center of the country that shares its name, has long been a wonder to all [...]",
+            "image": "/wp-content/gallery/mt-kenya/thumbs/thumbs_mtkenya.gif",
+            "link": "http://www.sacredland.org/mount-kenya/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-00.09,37.19,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mount Graham",
+            "country": "United States",
+            "description": "Construction of an astronomical observatory threatens the integrity of Mount Graham, Ariz., sacred to the San Carlos and White Mountain Apache. This ironic conflict pits the Vatican against Apache spiritual leaders, and astronomers against biologists. “On this mountain is a great life-giving force. You have no knowledge of the place you are about to destroy,” [...]",
+            "image": "/wp-content/gallery/mt-graham/thumbs/thumbs_mt-grahamwebnew.jpg",
+            "link": "http://www.sacredland.org/mount-graham/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "32.42,-109.52,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Zuni Salt Lake",
+            "country": "United States",
+            "description": "Sixty miles south of the Zuni Pueblo in New Mexico lies Salt Lake, home of the Zuni’s Salt Mother deity. When water evaporates in the summer, it leaves a layer of salt on the lake bottom, which is harvested by pilgrims, including medicine men coming from Zuni and other neighboring tribes. The Salt River Project, [...]",
+            "image": "/wp-content/gallery/zuni-salt-lake/thumbs/thumbs_03_zuni-salt-lake-web.jpg",
+            "link": "http://www.sacredland.org/zuni-salt-lake/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.54,-108.57,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Jerusalem",
+            "country": "Israel",
+            "description": "There are many who contend that there is something inherently sacred about places that cultures adopt as holy sites. Of all the Earth’s sacred places, this idea seems most embodied in the city of Jerusalem. In this single city, the world’s three major monotheistic faiths — Judaism, Christianity and Islam — all claim inextricable sacred [...]",
+            "image": "/wp-content/gallery/jerusalem/thumbs/thumbs_temple-mount-james-wilson-web.jpg",
+            "link": "http://www.sacredland.org/jerusalem/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "31.47,35.12,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Ganges River",
+            "country": "India",
+            "description": "Winding 1,560 miles across northern India, from the Himalaya Mountains to the Indian Ocean, the Ganges River is not a sacred place: it is a sacred entity. Known as Ganga Ma—Mother Ganges—the river is revered as a goddess whose purity cleanses the sins of the faithful and aids the dead on their path toward heaven. [...]",
+            "image": "/wp-content/gallery/ganges/thumbs/thumbs_ganges_sunrise.jpg",
+            "link": "http://www.sacredland.org/ganges/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "25.16,83.01,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Wolf River",
+            "country": "United States",
+            "description": "A proposed underground zinc and copper mine threatened the waterways of the Menominee, Sokaogon Chippewa, and Potawatomi in northeastern Wisconsin. As planned, the massive Crandon Mine would have produced 44 million tons of toxic waste at the headwaters of Wolf River, which would destroy traditional rice gathering and religious places around the mine project area [...]",
+            "image": "/wp-content/gallery/wolf-river/thumbs/thumbs_wolf_river_18.jpg",
+            "link": "http://www.sacredland.org/wolf-river/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "45.14,-88.48,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mississippi Mounds",
+            "country": "United States",
+            "description": "Nowhere north of the Valley of Mexico is there a more robust expression of prehistoric Native American culture and religion than in the ceremonial mound complexes of the Mississippian culture. According to Roger G. Kennedy, former Director of the National Park Service, “The Lower Mississippi Valley has a density of history and prehistory unmatched elsewhere [...]",
+            "image": "/wp-content/gallery/mississippi-mounds/thumbs/thumbs_serpent.jpg",
+            "link": "http://www.sacredland.org/mississippi-mounds/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "40.02,-82.25,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mauna Kea",
+            "country": "United States",
+            "description": "Mauna Kea, a volcano on the island of Hawai’i, is sacred to Native Hawaiians as an elder ancestor and the physical embodiment (or kinolau) of deities revered in Hawaiian culture and religion. Thirteen telescopes and support facilities crowd the sacred landscape of Mauna Kea and a consortium of institutions led by the University of Hawai’i [...]",
+            "image": "/wp-content/gallery/mauna-kea/thumbs/thumbs_mauna_kea2.jpg",
+            "link": "http://www.sacredland.org/mauna-kea/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "19.49,-155.28,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Mattaponi River",
+            "country": "United States",
+            "description": "The Mattaponi River, considered by the Mattaponi Tribe in Virginia to be the place where life begins, will be impacted by a proposed reservoir and dam project that will pump water from the river and could damage its ecosystem. Reports by the U. S. Army Corps of Engineers and other environmental agencies have disagreed over [...]",
+            "image": "/wp-content/gallery/mattaponi-river/thumbs/thumbs_mattaponi.jpg",
+            "link": "http://www.sacredland.org/mattaponi-river/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "37.46,-77.05,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Machu Picchu",
+            "country": "Peru",
+            "description": "Machu Picchu, an Inca citadel located in the Andes Mountains of Peru, is one of the world’s most well known sacred places. A marvel of human engineering melded perfectly into a natural setting of profound beauty, it’s no wonder this place has been adopted as a pilgrimage destination for spiritual seekers of all races and [...]",
+            "image": "/wp-content/gallery/machu-picchu/thumbs/thumbs_machu-picchu.jpg",
+            "link": "http://www.sacredland.org/machu-picchu/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-13.09,-72.30,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Uluru-Kata Tjuta",
+            "country": "Australia",
+            "description": "Rising 1,100 feet above the Australian desert, the red sandstone monolith known as Uluru is not just an international tourist destination but a symbol of the Aboriginal struggle for land rights and a model for collaborative indigenous-governmental land management. Uluru and its neighbor Kata Tjuta, a series of 36 rock domes, comprise an area of [...]",
+            "image": "/wp-content/gallery/uluru/thumbs/thumbs_1_uluru.jpg",
+            "link": "http://www.sacredland.org/uluru/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "-25.20,131.01,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Missouri River",
+            "country": "United States",
+            "description": "The upper Missouri River ran freely through Montana, North Dakota and South Dakota until six massive dam and reservoir projects were built during the second half of the twentieth century. This 1,500-mile stretch of river has long been central to the life and worship of 26 local Native American cultures, including the Lakota, Dakota and [...]",
+            "image": "/wp-content/gallery/missouri/thumbs/thumbs_lg_missriver.jpg",
+            "link": "http://www.sacredland.org/missouri-river/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "47.32,-101.21,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Taos Blue Lake",
+            "country": "United States",
+            "description": "Hidden in the mountains of northern New Mexico lies Blue Lake, or Ba Whyea, an ancient sacred site for the Taos Pueblo community. After the U.S. government appropriated Blue Lake and the surrounding area and placed it under the control of the Forest Service, the ensuing battles for Blue Lake came to epitomize Native Americans’ [...]",
+            "image": "/wp-content/gallery/taos-blue-lake/thumbs/thumbs_taos_blue_lake.jpg",
+            "link": "http://www.sacredland.org/taos-blue-lake/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "36.32,-105.23,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Medicine Wheel",
+            "country": "United States",
+            "description": "In December 2001, a federal judge ruled in favor of a Historic Preservation Plan that protects the Bighorn Medicine Wheel and Medicine Mountain in Wyoming, a site considered sacred to Native Americans. A Wyoming timber company had challenged the plan, which was negotiated with tribal organizations, state and local governments, as a hindrance to logging. [...]",
+            "image": "/wp-content/gallery/medecine-wheel/thumbs/thumbs_01_medwheelpoodleshaman.jpg",
+            "link": "http://www.sacredland.org/medicine-wheel/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "44.49,-107.55,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "G-O Road",
+            "country": "United States",
+            "description": "The Supreme Court case known as G-O Road set an extremely damaging precedent regarding legal protection of Native American sacred sites on federal land. In 1988, the court ruled that construction of a logging road through U.S. Forest Service land in California could not be stopped by Native Americans seeking the freedom to practice ancient [...]",
+            "image": "/wp-content/gallery/go-road/thumbs/thumbs_go_road.jpg",
+            "link": "http://www.sacredland.org/g-o-road/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "41.50,-123.58,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Pipestone National Monument",
+            "country": "United States",
+            "description": "Pipestone National Monument, located in southwest Minnesota, is named for the red stone (catlinite) that has been quarried there for centuries by native people, including the Lakota, Dakota and Yankton Sioux, to make ceremonial pipes. The land that comprises the Monument was to have been held aside for the Sioux through several treaties. It was [...]",
+            "image": "/wp-content/gallery/pipestone/thumbs/thumbs_pipestone.jpg",
+            "link": "http://www.sacredland.org/pipestone/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "44.00,-96.19,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Indian Pass",
+            "country": "United States",
+            "description": "What was once Quechan land is now prime gold mining territory, and the off-reservation sacred landscape around Indian Pass in the California desert is endangered. The Quechan Tribe and environmental groups believed they had won their fight to protect Indian Pass from a massive new cyanide heap-leach open-pit gold mine proposed by the Glamis Imperial [...]",
+            "image": "/wp-content/gallery/indian-pass/thumbs/thumbs_indian_pass.jpg",
+            "link": "http://www.sacredland.org/indian-pass/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "32.46,-115.32,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Devils Tower",
+            "country": "United States",
+            "description": "While many threats to sacred places come from natural-resource extraction and development, a different sort of battle continues in Wyoming, at a place the Lakota call Mato Tipila (The Lodge of the Bear), better known as Devils Tower. At issue: climbing a sacred site. Lakota scholar Vine Deloria, Jr. explains, “It’s not that Indians should [...]",
+            "image": "/wp-content/gallery/devils-tower/thumbs/thumbs_lightening.jpg",
+            "link": "http://www.sacredland.org/devils-tower/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "44.35,-104.41,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Medicine Lake Highlands",
+            "country": "United States",
+            "description": "Medicine Lake Volcanic Highlands, in the mountains of northern California, has a natural healing energy that the Native people in the area have long recognized. Corporations sense a different kind of energy—steam—and seek to tap this underground power to run electric generating plants. Floyd Buckskin of the Medicine Lake Highlands Defense Coalition describes the effects [...]",
+            "image": "/wp-content/gallery/medicine-lake/thumbs/thumbs_medicine_lake.jpg",
+            "link": "http://www.sacredland.org/medicine-lake/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "41.35,-121.35,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Weatherman Draw",
+            "country": "United States",
+            "description": "Weatherman Draw in southcentral Montana is a valley that contains the largest collection of Native American rock art on the continent. A landmark agreement between the National Trust for Historic Preservation, the Anschutz Exploration Corporation and the Department of the Interior will save this sacred landscape from invasion by machines, barbed wire fences, security guards, [...]",
+            "image": "/wp-content/gallery/weatherman-draw/thumbs/thumbs_weatherman.jpg",
+            "link": "http://www.sacredland.org/weatherman-draw/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "45.10,-108.40,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Badger-Two Medicine",
+            "country": "United States",
+            "description": "The Badger-Two Medicine Roadless Area sits on National Forest land within the Rocky Mountain Front. Adjacent to the Blackfeet Reservation in Montana, Badger-Two Medicine is a dramatic landscape where the plains, the mountains, and two rivers meet. Buster Yellow Kidney (Blackfeet) explains the significance of the area to his people: “All of the mountains of [...]",
+            "image": "/wp-content/gallery/badger/thumbs/thumbs_badger_two.jpg",
+            "link": "http://www.sacredland.org/badger-two-medicine/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "48.28,-112.34,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Arctic Wildlife Refuge",
+            "country": "United States",
+            "description": "Perhaps the most high-profile endangered sacred place in North America is Alaska’s Arctic National Wildlife Refuge — however, it is not widely identified as sacred. The refuge is at the center of a loud controversy over oil drilling and environmental regulations, while the native people in the area attempt to make their perspectives heard. Gwich’in [...]",
+            "image": "/wp-content/gallery/arctic/thumbs/thumbs_arctic.jpg",
+            "link": "http://www.sacredland.org/arctic-national-wildlife-refuge/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "69.33,-143.41,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Woodruff Butte",
+            "country": "United States",
+            "description": "For the past 10 years, the Hopi have watched as their shrines at Woodruff Butte, Arizona were bulldozed to produce rock for asphalt and concrete. Although this pilgrimage site has been sacred to the Hopi for a thousand years, the owner of the private property continues to ignore Hopi concerns and assert his right to [...]",
+            "image": "/wp-content/gallery/woodruff-butte/thumbs/thumbs_woodruff-butte-radio-web.jpg",
+            "link": "http://www.sacredland.org/woodruff-butte/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.47,-110.02,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "San Francisco Peaks",
+            "country": "United States",
+            "description": "From many places in northern Arizona, the horizon is dramatically marked by three 12,000-foot volcanic peaks that rise out of the Colorado Plateau south of the Grand Canyon and north of Flagstaff. The San Francisco Peaks are sacred to 13 tribes. For the Navajo, the Peaks are the sacred mountain of the west, Doko’oo’sliid, “Shining [...]",
+            "image": "/wp-content/gallery/san-fran-peaks/thumbs/thumbs_sfpeaks-web.jpg",
+            "link": "http://www.sacredland.org/san-francisco-peaks/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "34.52,-111.30,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Rainbow Bridge",
+            "country": "United States",
+            "description": "A world-famous natural bridge located at the northern edge of the Dine (Navajo) Nation, Rainbow Bridge is the site of hundreds of thousands of tourist visits every year and is recognized as a National Monument. In spite of public recognition of the value of this place, the desire for tourism continues to override protection for [...]",
+            "image": "/wp-content/gallery/rainbow-bridge-glen-canyon/thumbs/thumbs_rainbow-bridge-sign-web.jpg",
+            "link": "http://www.sacredland.org/rainbow-bridge/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "36.56,-111.29,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Petroglyph National Monument",
+            "country": "United States",
+            "description": "The conflict surrounding the estimated 24,000 petroglyphs — ancient carved rock images — west of Albuquerque, N.M., demonstrates that even a national monument is not safe when it comes to suburban development. After years of citizen activism and legal battles, the city of Albuquerque succeeded in building a four-lane highway through the northern portion of [...]",
+            "image": "/wp-content/gallery/petroglyph-nat-monument/thumbs/thumbs_petroglyphs.jpg",
+            "link": "http://www.sacredland.org/petroglyph-national-monument/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "35.08,-106.42,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Black Hills",
+            "country": "United States",
+            "description": "The Black Hills stretch across western South Dakota, northeast Wyoming and southeast Montana and constitute a sacred landscape for the Lakota, Northern Cheyenne and Omaha. To the Lakota, they are Paha Sapa, “the heart of everything that is.” The Black Hills were the casualty of one of the most blatant land grabs in U.S. history [...]",
+            "image": "/wp-content/gallery/black-hills/thumbs/thumbs_2_bear-butte-hr.jpg",
+            "link": "http://www.sacredland.org/black-hills/",
+        },
+        "geometry": {
+            "type":"Point",
+            "coordinates": [
+                "44.24,-103.42,0"
+
+            ]
+            
+            
+        },
+    },
+    {
+        "type":"Feature",
+        "properties":
+        {
+            "title": "Black Mesa",
+            "country": "United States",
+            "description": "Every day for 35 years, 3.3 million gallons of pure groundwater were pumped from the Navajo aquifer, which flows beneath the Hopi and Navajo nations in northeastern Arizona. Peabody Western Coal Co. used the water to transport coal via a long-distance pipeline from a strip mine on Black Mesa — a region containing the largest [...]",
+            "image": "/wp-content/gallery/black-mesa/thumbs/thumbs_strip_mining.jpg",
+            "link": "http://www.sacredland.org/black-mesa/",
+        },
+        "geometry": {
+                    "type":"Point",
+            "coordinates": [
+                "36.05,-110.13,0"
+
+            ]
+            
+            
+        }
+    }
+    ]
+
+}
