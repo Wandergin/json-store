@@ -1,0 +1,2105 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2163",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-K7Xcz6L/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.431708,
+          57.081919
+        ],
+        "type": "Point"
+      },
+      "id": "03403c69bb8405aa89f610e7ced28cc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2102",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2102.JPG",
+        "IMAGE_DIR": "249.1�",
+        "ELEVATION": "332.413 m",
+        "TIMESTAMP": "2017:08:07 11:50:09",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-jvkxX88/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.471733,
+          57.116755
+        ],
+        "type": "Point"
+      },
+      "id": "037d1d0f99e5c0734d7924637e778504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2166",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-VgBzkKN/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.464041,
+          57.056461
+        ],
+        "type": "Point"
+      },
+      "id": "06658c724e5ed80c4edebb53f72f129c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2184",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-hSGCs7b/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.38525,
+          57.088472
+        ],
+        "type": "Point"
+      },
+      "id": "0768c3991d651e79d1bf7efc7e0b7de2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2164",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-5XJFHss/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.424608,
+          57.088075
+        ],
+        "type": "Point"
+      },
+      "id": "09f7f31a44907799eccb928853863385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2176",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-v54dX2R/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.410597,
+          57.058291
+        ],
+        "type": "Point"
+      },
+      "id": "0aaa881b36438fe9f6b570b52b45f9aa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2243",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-fkR3RKr/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.2897,
+          57.071233
+        ],
+        "type": "Point"
+      },
+      "id": "0f3f93209c6a38bcbfc51278abaff26a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2145",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2145.JPG",
+        "IMAGE_DIR": "264.0�",
+        "ELEVATION": "328.157 m",
+        "TIMESTAMP": "2017:08:07 18:39:13",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-KCtXsHS/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454658,
+          57.04825
+        ],
+        "type": "Point"
+      },
+      "id": "104f0657b1f9be3b13bb9803d79e4dd7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2140",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2140.JPG",
+        "IMAGE_DIR": "240.3�",
+        "ELEVATION": "326.532 m",
+        "TIMESTAMP": "2017:08:07 18:19:39",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-BRqkjRP/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.470088,
+          57.048144
+        ],
+        "type": "Point"
+      },
+      "id": "1413af710d3609aea2abdc8b498122ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2179",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-zmk2rBt/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.400452,
+          57.097666
+        ],
+        "type": "Point"
+      },
+      "id": "14ace8f4f40a97afa32a4f56dafc9e5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2155",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-8xWrFR8/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.503505,
+          57.103316
+        ],
+        "type": "Point"
+      },
+      "id": "14d374a0244971321a5a1efb577126c5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2202",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-2Lwmr42/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.3266,
+          57.080611
+        ],
+        "type": "Point"
+      },
+      "id": "19bfd0bc6a86b9065e607a9a1fd71fc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2172",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-wXcm5RG/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.401138,
+          57.081058
+        ],
+        "type": "Point"
+      },
+      "id": "1bd383e3f6ee175d2b60b23753c6e1c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2144",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2144.JPG",
+        "IMAGE_DIR": "343.4�",
+        "ELEVATION": "325.978 m",
+        "TIMESTAMP": "2017:08:07 18:38:09",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-nG3TsrJ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454588,
+          57.048294
+        ],
+        "type": "Point"
+      },
+      "id": "1f47c8d272589811027a54a3bd3e31f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2236",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-cPW8Xf5/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.360597,
+          57.040825
+        ],
+        "type": "Point"
+      },
+      "id": "21a094e93561a46d7087df56418bae55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2234",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-qmHc7zN/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.315733,
+          57.065391
+        ],
+        "type": "Point"
+      },
+      "id": "21d8bfb6802805b6929eca7fa954b763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2129",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2129.JPG",
+        "IMAGE_DIR": "140.8�",
+        "ELEVATION": "332.184 m",
+        "TIMESTAMP": "2017:08:07 17:48:39",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-22c2JbQ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454577,
+          57.040738
+        ],
+        "type": "Point"
+      },
+      "id": "27f70bb747fb681414b29e7b9ffbe129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2161",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-XrSXW2P/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.491672,
+          57.086372
+        ],
+        "type": "Point"
+      },
+      "id": "2b3a83428c1eeeb7627d38ff57708af0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2148",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2148.JPG",
+        "IMAGE_DIR": "251.2�",
+        "ELEVATION": "337.838 m",
+        "TIMESTAMP": "2017:08:07 18:52:19",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-pJNVPft/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.43685,
+          57.048311
+        ],
+        "type": "Point"
+      },
+      "id": "2bc52584cc2c542ff4190eb679af6796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2141",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2141.JPG",
+        "IMAGE_DIR": "183.2�",
+        "ELEVATION": "322.972 m",
+        "TIMESTAMP": "2017:08:07 18:20:20",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-3JHW9KT/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.469997,
+          57.048086
+        ],
+        "type": "Point"
+      },
+      "id": "2f6a55cb612fd2c2862923e43d35c091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2181",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-KFPhJ8m/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.418191,
+          57.094127
+        ],
+        "type": "Point"
+      },
+      "id": "32c6adbd067bdd4a1d462f384de45a80"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2248",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-s8f4M5W/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.205666,
+          57.118319
+        ],
+        "type": "Point"
+      },
+      "id": "33318ea33d82731a92759c488de69ee5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2138",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2138.JPG",
+        "IMAGE_DIR": "148.3�",
+        "ELEVATION": "337.416 m",
+        "TIMESTAMP": "2017:08:07 18:10:44",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-stskR5f/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457836,
+          57.048141
+        ],
+        "type": "Point"
+      },
+      "id": "335e44380d47860b786318c8e044e22c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2173",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-cgGm9LT/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.418094,
+          57.064866
+        ],
+        "type": "Point"
+      },
+      "id": "353ea43cdecfec652e80d953e97fe3b4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2109",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2109.JPG",
+        "IMAGE_DIR": "353.7�",
+        "ELEVATION": "350.334 m",
+        "TIMESTAMP": "2017:08:07 16:20:41",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-vJpSQqQ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.36045,
+          57.041627
+        ],
+        "type": "Point"
+      },
+      "id": "3d7c6c874c5f78d1c279e8d1203bb4bb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "image1",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\image1.JPG",
+        "IMAGE_DIR": "109.1�",
+        "ELEVATION": "341.472 m",
+        "TIMESTAMP": "2017:08:06 16:07:00",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-nhNRxwR/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.409891,
+          57.09773
+        ],
+        "type": "Point"
+      },
+      "id": "40a27c92add3969e538cd94459a5947c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2132",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2132.JPG",
+        "IMAGE_DIR": "290.5�",
+        "ELEVATION": "333.151 m",
+        "TIMESTAMP": "2017:08:07 17:56:06",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-nQBpgh5/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457933,
+          57.040855
+        ],
+        "type": "Point"
+      },
+      "id": "476d8f41c3bc1854e74fb959800160e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2137",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2137.JPG",
+        "IMAGE_DIR": "287.6�",
+        "ELEVATION": "339.833 m",
+        "TIMESTAMP": "2017:08:07 18:09:56",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-XMzpNf9/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457858,
+          57.04815
+        ],
+        "type": "Point"
+      },
+      "id": "47dc61c8b01102b2dd16a473d7552f6f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2188",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-8gmSRn9/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.362391,
+          57.098105
+        ],
+        "type": "Point"
+      },
+      "id": "48de0ec5b6f8aafe7a192c379607a93e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2177",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-77ghL7N/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.395458,
+          57.052402
+        ],
+        "type": "Point"
+      },
+      "id": "4a766e492a7332290ca1a1329d5e3bc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2183",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-Pmnf7BP/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.384691,
+          57.074975
+        ],
+        "type": "Point"
+      },
+      "id": "4d74c3a19063068d32698038a8415906"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2104",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2104.JPG",
+        "IMAGE_DIR": "293.2�",
+        "ELEVATION": "340.382 m",
+        "TIMESTAMP": "2017:08:07 12:20:51",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-LFnLBg3/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454563,
+          57.099241
+        ],
+        "type": "Point"
+      },
+      "id": "541abb70d81a4bcb1d6628a4b1206d62"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2139",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2139.JPG",
+        "IMAGE_DIR": "108.0�",
+        "ELEVATION": "323.488 m",
+        "TIMESTAMP": "2017:08:07 18:18:25",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Tt598Pg/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.470075,
+          57.048141
+        ],
+        "type": "Point"
+      },
+      "id": "555e6995f7448d554fd3e184ee8b6888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2174",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-LxzFgjW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.418994,
+          57.057708
+        ],
+        "type": "Point"
+      },
+      "id": "561551aaed4e9752877c6cc213cb01ea"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2149",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2149.JPG",
+        "IMAGE_DIR": "159.6�",
+        "ELEVATION": "335.348 m",
+        "TIMESTAMP": "2017:08:07 18:52:57",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-fbPKW8T/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.436797,
+          57.048263
+        ],
+        "type": "Point"
+      },
+      "id": "5915716cde74bb2eb6c6e1a13a207c71"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2204",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-H6jcv76/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.30025,
+          57.06718
+        ],
+        "type": "Point"
+      },
+      "id": "5ff9eff2ba1fcee82e6a0029a134d82f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2226",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-m86VJvK/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.306819,
+          57.068305
+        ],
+        "type": "Point"
+      },
+      "id": "62b09e662632f30d644693b2a0d8d11e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "image2",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\image2.JPG",
+        "IMAGE_DIR": "330.8�",
+        "ELEVATION": "390.596 m",
+        "TIMESTAMP": "2017:08:06 16:42:38",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-bsXjnNW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.403891,
+          57.088788
+        ],
+        "type": "Point"
+      },
+      "id": "6340ef069782ad0a415058a03c956a44"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2213",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-WHDzPcf/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.379272,
+          57.097833
+        ],
+        "type": "Point"
+      },
+      "id": "642453c51a63797117acd0408f449ebe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2193",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-XfJNt7p/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.330458,
+          57.101225
+        ],
+        "type": "Point"
+      },
+      "id": "64c930720a478092f8226f780ba62927"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2130",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2130.JPG",
+        "IMAGE_DIR": "56.5�",
+        "ELEVATION": "328.538 m",
+        "TIMESTAMP": "2017:08:07 17:54:55",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-3KdW9TQ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457913,
+          57.04083
+        ],
+        "type": "Point"
+      },
+      "id": "671410f5bf4488802fc1d40fe1218e06"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2167",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-MDcgbdm/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.472713,
+          57.0569
+        ],
+        "type": "Point"
+      },
+      "id": "673bededf46eec3ceeb2804330333b15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2244",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-zW5JB2b/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.289747,
+          57.071261
+        ],
+        "type": "Point"
+      },
+      "id": "67608c69f93392841de30a3a66cc5e3f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2203",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-jFQ5LbF/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.291097,
+          57.072552
+        ],
+        "type": "Point"
+      },
+      "id": "6a49bae499e3d55d753950a394661667"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2170",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-TMLBPhT/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.409283,
+          57.080883
+        ],
+        "type": "Point"
+      },
+      "id": "6ab7c04fdac39d23abef101bd6352516"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2136",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2136.JPG",
+        "IMAGE_DIR": "358.9�",
+        "ELEVATION": "326.331 m",
+        "TIMESTAMP": "2017:08:07 18:09:22",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-29j7zTp/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457841,
+          57.048186
+        ],
+        "type": "Point"
+      },
+      "id": "6ada88d16934b66b5f076bbfccd21285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2121",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2121.JPG",
+        "IMAGE_DIR": "58.6�",
+        "ELEVATION": "339.632 m",
+        "TIMESTAMP": "2017:08:07 17:25:10",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-DtzKKt5/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.431261,
+          57.040863
+        ],
+        "type": "Point"
+      },
+      "id": "6b78cd272d8b3d859b53a511f91e129f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "image4",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\image4.JPG",
+        "IMAGE_DIR": "244.9�",
+        "ELEVATION": "341.655 m",
+        "TIMESTAMP": "2017:08:06 17:18:32",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Hf6zXDV/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.40383,
+          57.053616
+        ],
+        "type": "Point"
+      },
+      "id": "6c00612d70de7a9abf296c7e81af5ae9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2206",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-72wqrSk/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.438475,
+          57.087733
+        ],
+        "type": "Point"
+      },
+      "id": "6c031393265c32e402bd8321719bc382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2106",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2106.JPG",
+        "IMAGE_DIR": "148.7�",
+        "ELEVATION": "342.82 m",
+        "TIMESTAMP": "2017:08:07 12:43:52",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-M7s8dxk/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.45455,
+          57.097438
+        ],
+        "type": "Point"
+      },
+      "id": "6c17ea4f2d0889f84c8306d063f02738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2115",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2115.JPG",
+        "IMAGE_DIR": "296.7�",
+        "ELEVATION": "337.279 m",
+        "TIMESTAMP": "2017:08:07 16:52:34",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-6s3Hhk9/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.39725,
+          57.040833
+        ],
+        "type": "Point"
+      },
+      "id": "6c9735528e1be71d6936f1baef986cd5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2245",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-DPv5qmW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.289675,
+          57.071238
+        ],
+        "type": "Point"
+      },
+      "id": "6cbce8ad1195d255f95de7952338da8e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2105",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2105.JPG",
+        "IMAGE_DIR": "275.0�",
+        "ELEVATION": "335.034 m",
+        "TIMESTAMP": "2017:08:07 12:42:37",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Phx7Jqr/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454511,
+          57.09745
+        ],
+        "type": "Point"
+      },
+      "id": "6d3e77589d48f6bc1efb3bed69cd387e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2197",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-J6mPKQW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.338408,
+          57.087463
+        ],
+        "type": "Point"
+      },
+      "id": "6e07b208433f75dff025ccf17aee49b3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2107",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2107.JPG",
+        "IMAGE_DIR": "70.2�",
+        "ELEVATION": "337.099 m",
+        "TIMESTAMP": "2017:08:07 12:44:28",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-gHQLF5x/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454519,
+          57.097475
+        ],
+        "type": "Point"
+      },
+      "id": "6f9aa66d267544ce8ebfda98a32db3bf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2231",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-2mrzGGs/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.315797,
+          57.065416
+        ],
+        "type": "Point"
+      },
+      "id": "7542ff5f4e19dd7c2d11b614251fbeb7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2238",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-6xkzppX/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.36048,
+          57.040844
+        ],
+        "type": "Point"
+      },
+      "id": "78ced0455ab2c93cd5e23d9c90a6b337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2208",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-z2HpnDN/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.446186,
+          57.10038
+        ],
+        "type": "Point"
+      },
+      "id": "794b183096d8a0362987989cb4ccaa29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2210",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-3mq6mTd/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.424444,
+          57.036238
+        ],
+        "type": "Point"
+      },
+      "id": "7aeb7838eba0c5411bfa374ffa469831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2214",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-t2hmkfC/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.377416,
+          57.097611
+        ],
+        "type": "Point"
+      },
+      "id": "7c5cd6b7d717cbe9cd56ea490e3e8ee6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2117",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2117.JPG",
+        "IMAGE_DIR": "61.7�",
+        "ELEVATION": "333.903 m",
+        "TIMESTAMP": "2017:08:07 17:12:56",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-DT74wmc/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.42408,
+          57.040833
+        ],
+        "type": "Point"
+      },
+      "id": "828bea7c67b72300202676c03cd4b7b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2116",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2116.JPG",
+        "IMAGE_DIR": "138.0�",
+        "ELEVATION": "337.938 m",
+        "TIMESTAMP": "2017:08:07 16:53:10",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-MK4bF45/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.397286,
+          57.040766
+        ],
+        "type": "Point"
+      },
+      "id": "83c91c5033599065a9588eb9e978f0e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2186",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-8PcSFjN/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.381744,
+          57.102477
+        ],
+        "type": "Point"
+      },
+      "id": "8632c26299d30d37c212047639e4bab6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2232",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-fjRgvK2/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.315763,
+          57.065427
+        ],
+        "type": "Point"
+      },
+      "id": "87b124ff79cde5544f357ccebd2a0137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2178",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-SxNn2dF/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.398925,
+          57.050741
+        ],
+        "type": "Point"
+      },
+      "id": "8d842303a0f6f824552a10a36d937ecd"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2246",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-x3KngvP/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.205816,
+          57.118294
+        ],
+        "type": "Point"
+      },
+      "id": "92954c2c244a00fc8e86a970fc613dc1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2162",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-d2pmjwF/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.478447,
+          57.088111
+        ],
+        "type": "Point"
+      },
+      "id": "9442ce7ae10d673fe615d8e198882dad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2122",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2122.JPG",
+        "IMAGE_DIR": "357.9�",
+        "ELEVATION": "330.6 m",
+        "TIMESTAMP": "2017:08:07 17:25:51",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-T9xs3QC/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.431133,
+          57.040866
+        ],
+        "type": "Point"
+      },
+      "id": "96cb1a49c6b555c9ec4dbade5701f2bc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2128",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2128.JPG",
+        "IMAGE_DIR": "286.1�",
+        "ELEVATION": "324.891 m",
+        "TIMESTAMP": "2017:08:07 17:47:34",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-KnsVMjK/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454616,
+          57.040841
+        ],
+        "type": "Point"
+      },
+      "id": "970a316639ef383dbdb3372dd0fae771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2227",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-CLv3986/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.306858,
+          57.06828
+        ],
+        "type": "Point"
+      },
+      "id": "986a77b01b25c9efbdcd459abc275bdc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2200",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-4xR9Vpp/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.336783,
+          57.081411
+        ],
+        "type": "Point"
+      },
+      "id": "989069c4885a4c6b9a8a6b4bb27b7d45"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2119",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2119.JPG",
+        "IMAGE_DIR": "295.9�",
+        "ELEVATION": "333.805 m",
+        "TIMESTAMP": "2017:08:07 17:14:58",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-BPHHpbQ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.42413,
+          57.040841
+        ],
+        "type": "Point"
+      },
+      "id": "98f6cccfd9ab5e55b93fecfba98bb270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2168",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-pZvXFXn/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.473186,
+          57.051636
+        ],
+        "type": "Point"
+      },
+      "id": "9aa5d72b126091929560ef0052debd29"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2189",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-8gmSRn9/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.331577,
+          57.094802
+        ],
+        "type": "Point"
+      },
+      "id": "9e61ae85f894879e809fc0e1576e068b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2124",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2124.JPG",
+        "IMAGE_DIR": "155.8�",
+        "ELEVATION": "330.502 m",
+        "TIMESTAMP": "2017:08:07 17:30:30",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-2SpMfD5/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.436613,
+          57.040872
+        ],
+        "type": "Point"
+      },
+      "id": "a276f6ccab27098ce7bb8b3f744a5441"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2147",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2147.JPG",
+        "IMAGE_DIR": "68.7�",
+        "ELEVATION": "333.337 m",
+        "TIMESTAMP": "2017:08:07 18:50:24",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-shR3TT3/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.436766,
+          57.048305
+        ],
+        "type": "Point"
+      },
+      "id": "a7345261be6133e0b5e71cd802036529"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2158",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-7DfM2Mm/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.49678,
+          57.079522
+        ],
+        "type": "Point"
+      },
+      "id": "a94fd468c1094e9148eb685edc2df93d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2143",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2143.JPG",
+        "IMAGE_DIR": "67.0�",
+        "ELEVATION": "333.175 m",
+        "TIMESTAMP": "2017:08:07 18:37:24",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-VFRfrwD/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454405,
+          57.048255
+        ],
+        "type": "Point"
+      },
+      "id": "acd953ae7beddf58cb29affff27922ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2135",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2135.JPG",
+        "IMAGE_DIR": "56.3�",
+        "ELEVATION": "321.15 m",
+        "TIMESTAMP": "2017:08:07 18:08:19",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Zf2W5W5/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457819,
+          57.048197
+        ],
+        "type": "Point"
+      },
+      "id": "ae6303630df394c9e5cbd5af4b087460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2120",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2120.JPG",
+        "IMAGE_DIR": "129.6�",
+        "ELEVATION": "334.043 m",
+        "TIMESTAMP": "2017:08:07 17:15:32",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-R47q9wL/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.424122,
+          57.040808
+        ],
+        "type": "Point"
+      },
+      "id": "aeddfbb45ed17c146bcabf6a759687db"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2180",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-BbRGVJn/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.394872,
+          57.073641
+        ],
+        "type": "Point"
+      },
+      "id": "b42025db71973f8e9abb7427aee1d044"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2198",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-VPKGVzx/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.346647,
+          57.088113
+        ],
+        "type": "Point"
+      },
+      "id": "b4ecb28fc2003d65bcc491b71fa6d75f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2146",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2146.JPG",
+        "IMAGE_DIR": "172.3�",
+        "ELEVATION": "330.554 m",
+        "TIMESTAMP": "2017:08:07 18:40:14",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-cLn4vfW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454555,
+          57.048205
+        ],
+        "type": "Point"
+      },
+      "id": "b5f849f67cdd179997172328cb9f94cf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2191",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-CDRTN2h/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.330544,
+          57.100908
+        ],
+        "type": "Point"
+      },
+      "id": "b6fbe2ee516cd12603d284e3ac9c88ef"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2192",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-RL4mSnt/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.329913,
+          57.100844
+        ],
+        "type": "Point"
+      },
+      "id": "b7c2c4b6fd97008044c9bb006ea4472d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2212",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-WDksZk3/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.389341,
+          57.03563
+        ],
+        "type": "Point"
+      },
+      "id": "bb59dda67e8d29c829aef3752336b6cc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2187",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-xFX6bxK/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.388822,
+          57.109411
+        ],
+        "type": "Point"
+      },
+      "id": "c197c0149a77829650227f61ae5d0f99"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2237",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-V3zWX5s/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.360505,
+          57.04085
+        ],
+        "type": "Point"
+      },
+      "id": "c59a7a0f5ebbea6230880cb2788d5b04"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2123",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2123.JPG",
+        "IMAGE_DIR": "290.7�",
+        "ELEVATION": "332.498 m",
+        "TIMESTAMP": "2017:08:07 17:26:21",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-KxjgMGP/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.431275,
+          57.040866
+        ],
+        "type": "Point"
+      },
+      "id": "c6e645ec61d1dcda79d325a660b60036"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2194",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-xtdXCMD/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.320955,
+          57.088077
+        ],
+        "type": "Point"
+      },
+      "id": "c7d8b6f6cc2787ea23fbfba3a68fc4ce"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2165",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-K4vBrtB/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.418433,
+          57.081191
+        ],
+        "type": "Point"
+      },
+      "id": "c9e20a305466c54c78c894c538bb203b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2175",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-DBST9LV/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.419,
+          57.057705
+        ],
+        "type": "Point"
+      },
+      "id": "ca0c9ace5159569ded4ce9814a773a55"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2154",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-WPQp8Vz/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.470019,
+          57.10125
+        ],
+        "type": "Point"
+      },
+      "id": "ca824b9cbba607e9502651063b8af757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2114",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2114.JPG",
+        "IMAGE_DIR": "358.2�",
+        "ELEVATION": "341.761 m",
+        "TIMESTAMP": "2017:08:07 16:52:10",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Phc4N6G/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.397286,
+          57.040863
+        ],
+        "type": "Point"
+      },
+      "id": "cb46eae4d224eaae8d7da6682d3f7ffb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2131",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2131.JPG",
+        "IMAGE_DIR": "0.8�",
+        "ELEVATION": "327.376 m",
+        "TIMESTAMP": "2017:08:07 17:55:39",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-8v78GzB/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457933,
+          57.040822
+        ],
+        "type": "Point"
+      },
+      "id": "ccaa29b9c46a947aaca14678d11ec644"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2110",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2110.JPG",
+        "IMAGE_DIR": "308.8�",
+        "ELEVATION": "343.651 m",
+        "TIMESTAMP": "2017:08:07 16:38:13",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-L3KLzNg/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.382669,
+          57.034863
+        ],
+        "type": "Point"
+      },
+      "id": "cec8095e37d20087a52584d4c49d8daa"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2125",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2125.JPG",
+        "IMAGE_DIR": "60.5�",
+        "ELEVATION": "333.677 m",
+        "TIMESTAMP": "2017:08:07 17:34:10",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-QBDW8LW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.44008,
+          57.04088
+        ],
+        "type": "Point"
+      },
+      "id": "da7501fc130db97bb04b12677418fd70"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2134",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2134.JPG",
+        "IMAGE_DIR": "218.5�",
+        "ELEVATION": "316.139 m",
+        "TIMESTAMP": "2017:08:07 18:02:04",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-V3Qfh6N/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457677,
+          57.045044
+        ],
+        "type": "Point"
+      },
+      "id": "dbe82cafdec71a3ab3631f90766f2895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2153",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-rpDfv4G/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.491758,
+          57.106377
+        ],
+        "type": "Point"
+      },
+      "id": "dc1189bb171324bfd78cde8eaa8c7a82"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2247",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-nr49fpJ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.205819,
+          57.118338
+        ],
+        "type": "Point"
+      },
+      "id": "dc5a5490e15a8fec6d7e51bf716841eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2111",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2111.JPG",
+        "IMAGE_DIR": "263.7�",
+        "ELEVATION": "349.599 m",
+        "TIMESTAMP": "2017:08:07 16:42:20",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-6R3fdxW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.38383,
+          57.040797
+        ],
+        "type": "Point"
+      },
+      "id": "df39419b985036c2c125c7dc09139c63"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2160",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-qbLFr4R/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.497,
+          57.081119
+        ],
+        "type": "Point"
+      },
+      "id": "e0fab6393c1f679589fc839699d0a401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2108",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2108.JPG",
+        "IMAGE_DIR": "2.1�",
+        "ELEVATION": "338.692 m",
+        "TIMESTAMP": "2017:08:07 12:45:37",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-CWwfsMB/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.45453,
+          57.097455
+        ],
+        "type": "Point"
+      },
+      "id": "e220e31562d5eac057e1962d420a04c8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2133",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2133.JPG",
+        "IMAGE_DIR": "135.4�",
+        "ELEVATION": "327.474 m",
+        "TIMESTAMP": "2017:08:07 17:56:41",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-4WvDhcH/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.457936,
+          57.040838
+        ],
+        "type": "Point"
+      },
+      "id": "e2ba315f201409b3eeab41f824aa25d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2103",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2103.JPG",
+        "IMAGE_DIR": "211.8�",
+        "ELEVATION": "335.218 m",
+        "TIMESTAMP": "2017:08:07 12:04:22",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-QvDdh4S/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.45515,
+          57.111308
+        ],
+        "type": "Point"
+      },
+      "id": "e4ed1260b21400ae07db2bb8555568f1"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2126",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2126.JPG",
+        "IMAGE_DIR": "59.1�",
+        "ELEVATION": "313.278 m",
+        "TIMESTAMP": "2017:08:07 17:44:34",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-cMTQmDh/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454616,
+          57.04078
+        ],
+        "type": "Point"
+      },
+      "id": "e5d7362c647869b2c3cf5dd70e608c12"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2127",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2127.JPG",
+        "IMAGE_DIR": "358.1�",
+        "ELEVATION": "326.412 m",
+        "TIMESTAMP": "2017:08:07 17:46:40",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Jcrdr77/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.454563,
+          57.040875
+        ],
+        "type": "Point"
+      },
+      "id": "e820b9a43a27469988621d991c35ffc5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2152",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-cpXF3Lj/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.479533,
+          57.106463
+        ],
+        "type": "Point"
+      },
+      "id": "e94cb0803ddb1b16f9e6ca19968c09d2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_0761",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-xWZgvFh/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.370802,
+          57.094172
+        ],
+        "type": "Point"
+      },
+      "id": "e9c47cd68b5e08f7ca17fda0f3e015ca"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2112",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2112.JPG",
+        "IMAGE_DIR": "54.3�",
+        "ELEVATION": "345.268 m",
+        "TIMESTAMP": "2017:08:07 16:49:52",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-hQjZnSW/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.397175,
+          57.040805
+        ],
+        "type": "Point"
+      },
+      "id": "ea6b785e928074356e10b1c637b9a92a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2118",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\IMG_2118.JPG",
+        "IMAGE_DIR": "4.8�",
+        "ELEVATION": "338.146 m",
+        "TIMESTAMP": "2017:08:07 17:14:10",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Mzrn565/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.424097,
+          57.040841
+        ],
+        "type": "Point"
+      },
+      "id": "ed77c82eca62a5ab933f8b204946fe5e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2241",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-7hSV89c/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.299988,
+          57.068966
+        ],
+        "type": "Point"
+      },
+      "id": "ee010f16a2d948a44033ffcbcbf30c4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2171",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-bK2xMCd/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.411958,
+          57.072647
+        ],
+        "type": "Point"
+      },
+      "id": "f398706e423a5445253fb5e07897f248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2209",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-SVjgZ7q/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.435963,
+          57.032608
+        ],
+        "type": "Point"
+      },
+      "id": "f3b5f5927f1a5a4f01ac3ee0960c634c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2185",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-bkk9jQv/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.379527,
+          57.088016
+        ],
+        "type": "Point"
+      },
+      "id": "f501cbd0cd67bdf05ad19dcaea6df73d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2196",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-CczbSmZ/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.404763,
+          57.094275
+        ],
+        "type": "Point"
+      },
+      "id": "f7989745ee95dd4e99ed1c9a08253279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2228",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-TNLNht8/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.306769,
+          57.0683
+        ],
+        "type": "Point"
+      },
+      "id": "fabeadcfd0051015ba596a3d4512e629"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2205",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-FTNxQZB/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.3092,
+          57.071661
+        ],
+        "type": "Point"
+      },
+      "id": "fac49b41b153f71b675e53718b8fb253"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "IMG_2211",
+        "URL": "https://jacyletendre.smugmug.com/WC-Images/i-769tM6f/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.397144,
+          57.036247
+        ],
+        "type": "Point"
+      },
+      "id": "fc68455aaa5320f40c88e095a8e1ce96"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "LABEL": "image3",
+        "LAYER": "Picture",
+        "IMAGE_LINK": "Z:\\PROJECTS\\O-3654 Lease 29\\Field Data\\Pictures\\image3.JPG",
+        "IMAGE_DIR": "332.0�",
+        "ELEVATION": "336.55 m",
+        "TIMESTAMP": "2017:08:06 16:57:30",
+        "FROM_FILE": "1",
+        "URL": "https://jacyletendre.smugmug.com/Lease-29/n-LJSpks/i-Hf6zXDV/A"
+      },
+      "geometry": {
+        "coordinates": [
+          -111.401108,
+          57.084288
+        ],
+        "type": "Point"
+      },
+      "id": "ffb6e2291b70e695e44e268773554c03"
+    }
+  ],
+  "type": "FeatureCollection"
+}
