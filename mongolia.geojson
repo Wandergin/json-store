@@ -11,12 +11,12 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "title": "Sutai Khairkhan (\u0421\u0443\u0442\u0430\u0439 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b)",
-        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.\u00a0 Nationwide State Ceremonies: 2008 and 2012.<br><br>Sutai Khairkhan (\u0421\u0443\u0442\u0430\u0439 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b), which translates to Water Mountain, is the highest of the Gobi-Altai Mountains in the Central Asian plateau, and is located over the boundaries of Tonkhil and Darvi Soums of the Gobi-Altai province and the Darvi and Tsetseg soums of Khovd province in western Mongolia. This State Worshipped Sacred Mountain has an elevation of 13,845 feet (4,220 meters), and is covered in glaciers and peaked with snow. It is also home to rare and threatened plants and animals.<br><br>According to tradition, the deity who belongs to the snow covered peak is a pale lady whose look can pacify the fierce and cares for poor people. In the 17th century a sutra called \u201cSutai khany san\u201d for worship of the Sutai Khairkhan was created. The sutra continues to be used during the worship rituals.<br><br>46\u00b037\u203203\u2033N 93\u00b035\u203239\u2033E"
+        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.\u00a0 Nationwide State Ceremonies: 2008 and 2012.<br><br>Sutai Khairkhan (\u0421\u0443\u0442\u0430\u0439 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b), which translates to Water Mountain, is the highest of the Gobi-Altai Mountains in the Central Asian plateau, and is located over the boundaries of Tonkhil and Darvi Soums of the Gobi-Altai province and the Darvi and Tsetseg soums of Khovd province in western Mongolia. This State Worshipped Sacred Mountain has an elevation of 13,845 feet (4,220 meters), and is covered in glaciers and peaked with snow. It is also home to rare and endangered plants and animals.<br><br>According to tradition, the deity who belongs to the snow covered peak is a pale lady whose look can pacify the fierce and cares for poor people. In the 17th century a sutra called \u201cSutai khany san\u201d for worship of the Sutai Khairkhan was created. The sutra continues to be used during the worship rituals.<br><br>46\u00b037\u203203\u2033N 93\u00b035\u203239\u2033E"
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +29,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -65,7 +65,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -83,7 +83,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -155,7 +155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "threatened",
+        "type": "endangered",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
