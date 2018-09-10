@@ -15,6 +15,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Sutai Khairkhan.jpg",
         "title": "Sutai Khairkhan (\u0421\u0443\u0442\u0430\u0439 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b)",
         "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.  Nationwide State Ceremonies: 2008 and 2012.\n\nSutai Khairkhan (“Water Mountain”) is covered in glaciers, peaked with snow, and is home to rare and protected plants and animals. At an elevation of 13,845 feet (4,220 meters), it is the highest of the Gobi-Altai Mountains in the Central Asian plateau. The deity who belongs to Sutai Khairkhan is a pale lady whose look can pacify the fierce and cares for the poor. In the 17th century a sutra called “Sutai khany san” was created for worship, and the sutra continues to be used during current rituals."
       },
@@ -33,6 +34,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Bhurkan Khaldun.png",
         "title": "Burkhan Khaldun (\u0411\u0443\u0440\u0445\u0430\u043d \u0425\u0430\u043b\u0434\u0443\u043d)",
         "description": "Decree #110 (May 16, 1995) by President Punsalmaagiin Ochirbat. Nationwide State Ceremonies: 1998, 2002, 2006, 2010, 2015.\n\nBurkhan Khaldun is one of the Khentii Mountains of northeastern Mongolia. The mountain is considered the most sacred mountain in Mongolia since its designation by Chinggis Khan in the twelfth century. The Khentii Province is believed to be the birthplace of Chinggis Khan in or around 1162, and Burkhan Khaldun Mountain is where he performed his ceremonies and communicated with his protector spirits and the Tengeri. Worship was formalized by Presidential Decree in 1955 and was inscribed as a UNESCO World Heritage Site on 4 July 2015."
       },
@@ -51,6 +53,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Gov Gurvan Saikhan.png",
         "title": "Gov\u2019 Gurvan Saikhan (\u0413\u043e\u0432\u044c \u0433\u0443\u0440\u0432\u0430\u043d \u0441\u0430\u0439\u0445\u0430\u043d)\n",
         "description": "Acknowledged (August 24, 2012) by President Tsakhiagiin Elbegdorzh as a National Park."
       },
@@ -69,6 +72,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Altan Tavan Bogd.png",
         "title": "Altai Tavan Bogd (\u0410\u043b\u0442\u0430\u0439 \u0422\u0430\u0432\u0430\u043d \u0431\u043e\u0433\u0434)",
         "description": "Acknowledged (August 24, 2012) by President Tsakhiagiin Elbegdorzh as a National Park."
       },
@@ -87,6 +91,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Bogd Khairkhan Uul.jpg",
         "title": "Bogd Khairkhan Uul (\u0411\u043e\u0433\u0434 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b)\n",
         "description": "Decree #110 (May 16, 1995) by President Punsalmaagiin Ochirbat. Nationwide State Ceremonies: 1996, 2000, 2004, 2008, 2012.\n\nIn 1778 the Mongolian governor of Khuree (Urga, present day Ulan-Bator) Sanzaidorj requested approval of annual ceremonies to Bogd Khairkhan from Qianlong Emperor. The letter and reply from Beijing in Mongolian is kept in the Central State Archives of Mongolia. The deity associated with Bogd Khan is Dunjingarav, a ferocious male, who rides thirty-three grey horses (a symbol of shamanism) and has the mantra (a ritual originating in Buddhism) “um ma hum”. The sutra created by Triumphant Abbot Damtsagdorj (1781-1855) is currently used in worship rituals."
       },
@@ -105,6 +110,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Otgontenger.jpg",
         "title": "Otgontenger Khairkhan (\u041e\u0442\u0433\u043e\u043d\u0442\u044d\u043d\u0433\u044d\u0440)\n",
         "description": "Decree #110 (May 16, 1995) by President Punsalmaagiin Ochirbat. Nationwide State Ceremonies: 1995, 1999, 2003, 2007, 2011.\n\nOtgontenger Khairkhan ('Youngest Sky') is capped with a permanent glacier and is the highest point of the Khangai mountain range, located in Buyant Bag of Otgon Soum, Zavkhan Province. Otgontenger Khairkhan was first decreed protected in 1779, again in 1911 by Bogdo Khan, and in 1992 after the People’s Republic. A Strictly Protected Area, it is worshipped every four years.  The deity Ochirvaani, ferocious and male, is associated with Otgontenger. The sutra created by Lama Agvaanprinlaijamts (1860-1936) is read during the worship ceremonies at present."
       },
@@ -123,6 +129,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Dariganga Dari Ovoo.png",
         "title": "Darigangyn Dar\u2019 Ovoo (\u0414\u0430\u0440\u044c\u0433\u0430\u043d\u0433\u0430 or \u0410\u043b\u0442\u0430\u043d-\u041e\u0432\u043e\u043e)\n",
         "description": "Decree #57 (April 23, 2004) by President Natsagiin Bagabandi.  Nationwide State Ceremonies: 2004, 2008, 2012.\n\nDarigangyn Dar’ Ovoo, also known as Altan Ovoo (“Golden Cairn”), is a volcano in Dariganga Soum in Sukhbaatar Aimag. Bogd Khan Jibzundamba, spiritual lama in the early in the 20th century, declared Darigangyn Dar’ Ovoo an officially worshipped mountain. Darigangyn Dar’ Ovoo is a “male only” pilgrimage site. Women are prohibited from climbing this cairn and may only climb a smaller site nearby or walk clockwise around Darigangyn Dar’ Ovoo. Men who reach the summit of the sacred mountain fume a juniper and pour libations in veneration."
       },
@@ -141,6 +148,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Khan Khukhii Ull.jpg",
         "title": "Khan Khukhii (\u0425\u0430\u043d \u0445\u04e9\u0445\u0438\u0439)\n",
         "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar. Nationwide State Ceremonies: 2008 and 2012.\n\nKhan Khukhii (Хан хөхий) is also designated as a National Park and has a female deity."
       },
@@ -159,6 +167,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Altan Khukhii - Hohiy.jpg",
         "title": "Altan Khukhii Uul (Atlan H\u00f6hiy) (\u0410\u043b\u0442\u0430\u043d \u0425\u04e9\u0445\u0438\u0439 \u0443\u0443\u043b)\n",
         "description": "Acknowledged (August 24, 2012) by President Tsakhiagiin Elbegdorzh as a National Park."
       },
@@ -177,6 +186,7 @@
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
+        "image-name": "Suvrag Khairkhan.png",
         "title": "Suvrag Khairkhan (\u0421\u0443\u0432\u0440\u0430\u0433\u0430 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b)",
         "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar. Nationwide State Ceremonies: 2011.\n\nSuvrag Khairkhan (“Great White Mountain”) forms the eastern part of the Khangai Mountains in the Tsenkher Soum of the Arkjangai province. This State Worshipped Sacred Mountain has an elevation of 10,430 ft feet (3,179 meters), and is noted for its forests, rocky surfaces and snow-capped peak."
       },
