@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "name": "Sacred Mountains",
   "crs": {
-    "type": "name",
+    "type": "name", 
     "properties": {
       "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
     }
@@ -11,12 +11,12 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "title": "Sutai Khairkhan (\u0421\u0443\u0442\u0430\u0439 \u0425\u0430\u0439\u0440\u0445\u0430\u043d \u0443\u0443\u043b)",
-        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.  Nationwide State Ceremonies: 2008 and 2012.\n\nSutai Khairkhan (“Water Mountain”) is covered in glaciers, peaked with snow, and is home to rare and endangered plants and animals. At an elevation of 13,845 feet (4,220 meters), it is the highest of the Gobi-Altai Mountains in the Central Asian plateau. The deity who belongs to Sutai Khairkhan is a pale lady whose look can pacify the fierce and cares for the poor. In the 17th century a sutra called “Sutai khany san” was created for worship, and the sutra continues to be used during current rituals."
+        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.  Nationwide State Ceremonies: 2008 and 2012.\n\nSutai Khairkhan (“Water Mountain”) is covered in glaciers, peaked with snow, and is home to rare and protected plants and animals. At an elevation of 13,845 feet (4,220 meters), it is the highest of the Gobi-Altai Mountains in the Central Asian plateau. The deity who belongs to Sutai Khairkhan is a pale lady whose look can pacify the fierce and cares for the poor. In the 17th century a sutra called “Sutai khany san” was created for worship, and the sutra continues to be used during current rituals."
       },
       "geometry": {
         "type": "Point",
@@ -29,7 +29,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -65,7 +65,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -83,7 +83,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -119,7 +119,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -155,7 +155,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
