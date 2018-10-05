@@ -11,7 +11,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -29,7 +29,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -47,7 +47,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -65,7 +65,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -83,7 +83,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -101,7 +101,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -119,12 +119,12 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "title": "Sutai Khairkhan Mountain / Сутай Хайрхан уул",
-        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.  Nationwide State Ceremonies: 2008 and 2012.\n\nSutai Khairkhan Mountain is covered in glaciers, peaked with snow, and is home to rare and endangered plants and animals. At an elevation of 13,845 feet (4,220 meters), it is the highest of the Gobi-Altai Mountains in the Central Asian plateau. The deity who belongs to Sutai Khairkhan is a pale lady whose look can pacify the fierce and cares for the poor. In the 17th century a sutra called “Sutai khany san” was created for worship, and the sutra continues to be used during current rituals."
+        "description": "Decree #183 (July 26, 2007) by President Nambaryn Enkhbayar.  Nationwide State Ceremonies: 2008 and 2012.\n\nSutai Khairkhan Mountain is covered in glaciers, peaked with snow, and is home to rare and protected plants and animals. At an elevation of 13,845 feet (4,220 meters), it is the highest of the Gobi-Altai Mountains in the Central Asian plateau. The deity who belongs to Sutai Khairkhan is a pale lady whose look can pacify the fierce and cares for the poor. In the 17th century a sutra called “Sutai khany san” was created for worship, and the sutra continues to be used during current rituals."
       },
       "geometry": {
         "type": "Point",
@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
@@ -155,12 +155,12 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "title": "Altai Tavan Bogd / Алтай Таван богд",
-        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012.\n\nGobi Gurvan Saikhan is a National Park. The land has been protected from development since 1963 and is home to more than 200 bird species, as well as endangered species, such as snow leopards, wild camel, and ibex."
+        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012.\n\nGobi Gurvan Saikhan is a National Park. The land has been protected from development since 1963 and is home to more than 200 bird species, as well as protected species, such as snow leopards, wild camel, and ibex."
       },
       "geometry": {
         "type": "Point",
@@ -173,7 +173,7 @@
     {
       "type": "Feature",
       "properties": {
-        "type": "endangered",
+        "type": "protected",
         "country": "Mongolia",
         "marker-size": "medium",
         "marker-color": "#D89A2E",
