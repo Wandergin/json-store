@@ -93,7 +93,7 @@
         "marker-color": "#D89A2E",
         "image-name": "Dariganga Dari Ovoo.png",
         "title": "Darigangyn Altan Ovoo / Дарьгангын Алтан Овоо\n",
-        "description": "Decree #57 by President Natsagiin Bagabandi on April 23, 2004. Nationwide State Ceremonies: 2004, 2008, 2012.\n\nDarigangyn Altan Ovoo, also known as Dariganga Dari Ovoo (Golden Cairn), is a volcano in Dariganga Soum in Sukhbaatar Aimag. The Eighth Jebtsundamba Khutuktu Bogd Khan (1869-1924) declared Darigangyn Altan Ovoo an officially worshipped mountain. Bogd Khan was the preeminent living Buddha of Mongolia, who ranked third in the Lamaist-Buddhist ecclesiastical hierarchy, after the Dalai Lama and the Panchen Lama. "
+        "description": "Decree #57 by President Natsagiin Bagabandi on April 23, 2004. Nationwide State Ceremonies: 2004, 2008, 2012.\n\nDarigangyn Altan Ovoo, also known as Dariganga Dari Ovoo (Golden Cairn), is a volcano in Dariganga Soum in Sukhbaatar Aimag. The Eighth Jebtsundamba Khutuktu Bogd Khan (1869-1924) declared Darigangyn Altan Ovoo an officially worshipped mountain. Bogd Khan was the preeminent living Buddha of Mongolia, who ranked third in the Lamaist-Buddhist ecclesiastical hierarchy, after the Dalai Lama and the Panchen Lama."
       },
       "geometry": {
         "type": "Point",
@@ -111,7 +111,7 @@
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "image-name": "Khan Khukhii Ull.jpg",
-        "title": "Khan Khukhii / Хан хөхий\n",
+        "title": "Khan Khukhii / Хан Хөхий\n",
         "description": "Decree #183 by President Nambaryn Enkhbayar on July 26, 2007. Nationwide State Ceremonies: 2008 and 2012.\n\nKhan Khukhii Mountain, along with Khan Khukhii Lake, Khyargas and Airag lakes, and the headwaters of the Zavkhan and Khungui rivers, has been protected as a National Park since 2000. The area is also significant for the tumuli (ancient burial mounds) found there. Khan Khukhii has a female deity who is said to meet with the male deity of nearby Tagna Mountain every month. "
       },
       "geometry": {
@@ -168,8 +168,8 @@
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "image-name": "Altan Tavan Bogd.png",
-        "title": "Altai Tavan Bogd / Алтай Таван богд",
-        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012.\n\nGobi Gurvan Saikhan is a National Park. The land has been protected from development since 1963 and is home to more than 200 bird species, as well as protected species, such as snow leopards, wild camel, and ibex."
+        "title": "Altai Tavan Bogd / Алтай Таван Богд",
+        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012. Nationwide State Ceremony: July 2014\n\nAltai Tavan Bogd is a National Park and is home to over 10,000 Neolithic and Bronze Age Tsagaan Salaa rock paintings."
       },
       "geometry": {
         "type": "Point",
@@ -187,8 +187,9 @@
         "marker-size": "medium",
         "marker-color": "#D89A2E",
         "image-name": "Gov Gurvan Saikhan.png",
-        "title": "Gobi Gurvan Saikhan / Говь гурван сайхан\n",
-        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012. Nationwide State Ceremony: July 2014\n\nAltai Tavan Bogd is a National Park and is home to over 10,000 Neolithic and Bronze Age Tsagaan Salaa rock paintings."
+        "title": "Gobi Gurvan Saikhan / Говь Гурван Сайхан\n",
+        "description": "President Tsakhiagiin Elbegdorzh acknowledged August 24, 2012.\n\nGobi Gurvan Saikhan is a National Park. The land has been protected from development since 1963 and is home to more than 200 bird species, as well as protected species, such as snow leopards, wild camel, and ibex."
+
       },
       "geometry": {
         "type": "Point",
