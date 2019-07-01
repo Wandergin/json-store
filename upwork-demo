@@ -1,0 +1,33 @@
+{
+	"type": "FeatureCollection",
+	"name": "Upwork Demo",
+	"features": [{
+			"type": "Feature",
+			"properties": {
+				"marker-size": "medium",
+				"marker-color": "#D89A2E"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					51.534208,
+					-0.091453
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"marker-size": "medium",
+				"marker-color": "#a81616"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					51.525518,
+					-0.088609
+				]
+			}
+		}
+	]
+}
