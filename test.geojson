@@ -1,0 +1,1 @@
+{"tilejson":"2.2.0","id":null,"name":"public.parcel_dynamic","description":null,"version":"1.0.0","attribution":null,"template":null,"legend":null,"scheme":"xyz","tiles":["https://map-test.aqarek.sa:443/tiles/public.parcel_dynamic/{z}/{x}/{y}.pbf"],"grids":null,"data":null,"minzoom":0,"maxzoom":30,"bounds":[-180,-90,180,90],"center":null}
